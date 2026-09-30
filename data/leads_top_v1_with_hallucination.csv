@@ -1,0 +1,107 @@
+lead_id,company_name,industry,company_size,last_contacted,engagement_score,deal_stage,notes,past_deal_value,days_since_contact,is_stale,score,reasoning,cited_fields,similar_deal_ids,model_used,draft_message,status
+L0570,Dhar and Sons,Manufacturing,500-2000,,76,New,"Interested in demo, follow up next week.",120000.0,,False,78,"The lead shows strong potential with a high engagement score of 76 and positive interest in a demo, mirroring the engagement profile of past won deal W020 in the manufacturing industry.","engagement_score,industry,notes",W020,gemini:gemini-3.5-flash-lite,"Hi Team,
+
+Given Dhar and Sons' strong focus in the manufacturing sector, I wanted to follow up on your interest in seeing a platform demo. 
+
+We’ve helped similar manufacturing organizations streamline their operations and scale effectively, and I’d love to walk you through how our solution fits your team's needs. 
+
+Do you have 15 minutes next week for a quick, high-level walkthrough? 
+
+Best regards,
+
+[Your Name]",pending
+L0609,"Bhargava, Datta and Gera",Manufacturing,200-500,,71,New,Said budget is tight this quarter.,0.0,,False,55,"The lead matches the target company size and industry of past successful deal W020, but the engagement score is slightly lower and notes indicate a tight budget.","industry,company_size,engagement_score,notes",W020,gemini:gemini-3.5-flash-lite,"Hi team at Bhargava, Datta and Gera,
+
+Given your work in the manufacturing sector, I know cost control and operational efficiency are top of mind, especially with tighter budgets this quarter. 
+
+We’ve helped similar mid-sized manufacturers streamline operations without increasing overhead. I’d love to share a few practical ways we’ve done this so you can evaluate if it fits your current plans.
+
+Do you have 15 minutes next Tuesday for a quick, no-pressure chat?
+
+Best,
+
+[Your Name]",pending
+L0104,Khanna-Soman,Healthcare,200-500,2025-12-27,64,Contacted,"Interested in demo, follow up next week.",0.0,276.0,True,45,"The lead is in the Healthcare industry matching past wins, but has a low engagement score of 64 and is marked as stale with 276 days since the last contact.","industry,engagement_score,days_since_contact,is_stale","W011,W017",gemini:gemini-3.5-flash-lite,"Hi team at Khanna-Soman,
+
+I know we connected earlier about scheduling a demo for your healthcare operations, but I realize it’s been a while since we last spoke. 
+
+Given your team size and workflow needs, I wanted to circle back to see if streamlining your processes is still a priority this quarter. 
+
+Do you have 15 minutes next Tuesday or Wednesday for a quick catch-up to see the platform in action?
+
+Best,
+
+[Your Name]",pending
+L0501,Barad Ltd,SaaS,10-50,2026-01-21,96,Qualified,"Interested in demo, follow up next week.",250000.0,251.0,True,45,"Despite a high engagement score of 96 and matching the SaaS industry of past wins, the lead is marked as stale with 251 days since last contact, significantly reducing its likelihood to convert.","engagement_score,industry,days_since_contact,is_stale",W004,gemini:gemini-3.5-flash-lite,"Hi Barad Ltd team,
+
+It’s been a while since we connected last January when you were exploring a demo for your SaaS platform. 
+
+Given your past interest, I wanted to check in and see if scaling efficiency or optimizing your workflows is a current priority for your team as you head into the new quarter. 
+
+Would you be open to a quick, 15-min catch-up call next week to see if we can help?
+
+Best regards,
+
+[Your Name]",pending
+L0449,Nayar Ltd,Healthcare,500-2000,2025-11-22,73,Qualified,Said budget is tight this quarter.,500000.0,311.0,True,35,"The lead has a low conversion likelihood due to being stale for 311 days and having tight budget constraints this quarter, despite matching the Healthcare industry of past wins.","industry,days_since_contact,is_stale,notes","W011,W015,W017",gemini:gemini-3.5-flash-lite,"Hi Nayar Ltd team,
+
+It’s been a while since we last connected back in November. I know budget constraints were a hurdle for you that quarter, but given your ongoing work in the healthcare sector, I wanted to reconnect. 
+
+We’ve recently helped similar healthcare organizations streamline operations without requiring heavy upfront investments. 
+
+Do you have 15 minutes next week to see if there's a more flexible way we can support your goals right now?
+
+Best,
+
+[Your Name]",pending
+L0640,Hora-Chowdhury,Retail,10-50,2025-10-11,74,New,Do not contact until Q3.,250000.0,353.0,True,35,"The lead has explicit instructions not to contact until Q3 and is marked as stale with 353 days since last contact, despite matching the size and industry of past win W022.","notes,is_stale,days_since_contact,company_size,industry","W022,W005",gemini:gemini-3.5-flash-lite,"Hi Hora-Chowdhury team,
+
+Since it is now Q3, I wanted to reconnect as we noted our past communication was on hold. Given our success working with similar retailers on deals like W022, I thought it would be a good time to touch base on how we can help scale your operations. 
+
+Would you be open to a brief 15-minute introductory call next week to discuss your current priorities?
+
+Best regards,
+
+[Your Name]",pending
+L0012,Parekh-Sandal,Manufacturing,50-200,2026-01-17,83,Contacted,Said budget is tight this quarter.,500000.0,255.0,True,35,"Despite a decent engagement score and matching industry, the lead is stale (255 days since contact) and notes indicate tight budget constraints this quarter.","engagement_score,days_since_contact,is_stale,notes,industry","W020,W011",gemini:gemini-3.5-flash-lite,"Hi [Name],
+
+It’s been a while since we connected back in January. Given Parekh-Sandal’s manufacturing scale, I know budget flexibility can be tight right now, but I wanted to circle back to see how your priorities have shifted. 
+
+We’ve helped similar mid-market manufacturers streamline operations without hefty upfront costs. 
+
+Would you be open to a brief, 15-min catch-up next week to see if there’s a lighter-weight way we can support your goals this quarter?
+
+Best,
+
+[Your Name]",pending
+L0693,"Lata, Brar and Bhatnagar",Retail,50-200,2026-09-16,23,Qualified,Currently evaluating competitors.,250000.0,13.0,False,35,"The lead is in the Qualified stage and matches the industry of successful past deals, but has a low engagement score of 23 and is currently evaluating competitors.","engagement_score,deal_stage,notes,industry","W018,W005",gemini:gemini-3.5-flash-lite,"Hi Lata, Brar and Bhatnagar team,
+
+I know you’re currently evaluating your options in the retail space. Since we’ve successfully partnered with similar mid-sized retail companies on deals valued around $250k, I wanted to share a quick perspective on how we compare. 
+
+No pressure at all, but would you be open to a brief 15-minute introductory call next week to ensure you have all the data points you need for your evaluation? 
+
+Best regards,
+
+[Your Name]",pending
+L0797,"Shukla, Arora and Vora",Healthcare,10-50,,4,New,"Requested pricing sheet, no response since.",50000.0,,False,25,"The lead matches the target industry and company size of past winning deals W015 and W009, but currently has a very low engagement score of 4 and went silent after requesting a pricing sheet.","industry,company_size,engagement_score,notes","W015,W009",gemini:gemini-3.5-flash-lite,"Hi Shukla, Arora and Vora team,
+
+I noticed you recently requested our pricing sheet but didn't get a chance to connect. Navigating pricing for a growing healthcare practice can raise a lot of questions, especially when balancing team needs and budget. 
+
+I wanted to circle back to see if the sheet was clear or if you'd like a quick walk-through to see what fits best for your team size. 
+
+Would you be open to a brief, 15-minute introductory call this week to discuss? 
+
+Best,
+
+[Your Name]",pending
+L0611,Nair-Reddy,Logistics,2000-5000,,32,Qualified,Do not contact until Q3.,0.0,,False,25,"The lead has a low engagement score of 32 and notes explicitly state 'Do not contact until Q3', indicating low current conversion likelihood compared to successful deals which had engagement scores above 80.","engagement_score,notes","W012,W013",gemini:gemini-3.5-flash-lite,"Hi Nair-Reddy team,
+
+Given your scale with 2000-5000 employees in the logistics sector, managing operational efficiency across growing supply chain networks can become complex. 
+
+While I note our team shouldn't follow up in depth until Q3, I wanted to briefly connect now to share how we’ve helped similar enterprise logistics firms streamline their workflows. 
+
+Would you be open to a brief, introductory 15-min call sometime next month to see if there's a fit for the second half of the year?
+
+Best,
+
+[Your Name]",pending

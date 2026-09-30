@@ -1,0 +1,787 @@
+lead_id,company_name,industry,company_size,last_contacted,engagement_score,deal_stage,notes,past_deal_value,days_since_contact,is_stale
+L0327,"Bala, Nath and Saini",Healthcare,2000-5000,2026-05-28,100,New,"Met at conference, warm intro.",500000.0,125.0,False
+L0058,Virk-Kaul,SaaS,500-2000,2025-12-07,100,Qualified,"Requested pricing sheet, no response since.",500000.0,297.0,True
+L0337,"Babu, Kannan and Kumar",Manufacturing,500-2000,2026-06-16,100,Qualified,"Requested pricing sheet, no response since.",50000.0,106.0,False
+L0761,Gill-Bajwa,Healthcare,500-2000,2025-10-08,100,Qualified,"Requested pricing sheet, no response since.",120000.0,357.0,True
+L0134,Hayer LLC,Retail,200-500,,100,Contacted,"Interested in demo, follow up next week.",120000.0,,False
+L0582,Shankar-Nanda,Logistics,500-2000,2026-04-09,100,Contacted,Said budget is tight this quarter.,50000.0,174.0,False
+L0101,"Roy, Prashad and Kunda",SaaS,200-500,2025-11-13,100,New,"Requested pricing sheet, no response since.",120000.0,321.0,True
+L0541,"Subramaniam, Halder and Sastry",Retail,200-500,2025-10-13,100,Contacted,Do not contact until Q3.,0.0,352.0,True
+L0413,Batra Group,Retail,500-2000,2025-09-29,100,Qualified,"Met at conference, warm intro.",500000.0,366.0,True
+L0063,"Saxena, Chand and Chopra",Retail,10-50,2026-02-24,99,Qualified,"Interested in demo, follow up next week.",500000.0,218.0,True
+L0593,Deo PLC,SaaS,200-500,2026-02-07,99,New,"Requested pricing sheet, no response since.",50000.0,235.0,True
+L0321,"Munshi, Zachariah and Chakrabarti",Healthcare,500-2000,2026-08-17,99,Qualified,Currently evaluating competitors.,120000.0,44.0,False
+L0613,Tailor Ltd,Logistics,500-2000,2025-09-17,99,Contacted,Currently evaluating competitors.,0.0,378.0,True
+L0455,"D’Alia, Bhasin and Raval",Healthcare,50-200,2026-01-04,99,New,Said budget is tight this quarter.,0.0,269.0,True
+L0335,Mand-Saran,Healthcare,500-2000,2025-10-17,98,Contacted,"Interested in demo, follow up next week.",250000.0,348.0,True
+L0284,Pall-Nadig,Healthcare,2000-5000,2026-09-21,98,New,Currently evaluating competitors.,0.0,9.0,False
+L0066,"Kakar, Issac and Bir",SaaS,200-500,2025-08-27,98,New,"Requested pricing sheet, no response since.",250000.0,399.0,True
+L0707,Mahal Group,Healthcare,10-50,2026-07-04,98,New,Said budget is tight this quarter.,120000.0,88.0,False
+L0228,Banerjee Inc,Logistics,50-200,2026-07-25,98,New,Do not contact until Q3.,50000.0,67.0,False
+L0635,Varma and Sons,Retail,10-50,2025-09-29,98,Qualified,Said budget is tight this quarter.,500000.0,366.0,True
+L0379,Mannan Group,SaaS,500-2000,,98,New,"Met at conference, warm intro.",0.0,,False
+L0667,"Pandit, Sibal and Sur",Healthcare,10-50,2026-06-05,98,Qualified,,50000.0,117.0,False
+L0626,Behl-Mahal,Manufacturing,10-50,2026-02-21,98,Contacted,Currently evaluating competitors.,50000.0,221.0,True
+L0359,"Prabhu, Tata and Verma",Manufacturing,50-200,2025-10-18,97,Contacted,,0.0,347.0,True
+L0300,"Ben, Savant and Johal",Manufacturing,200-500,2026-01-22,97,New,"Requested pricing sheet, no response since.",500000.0,251.0,True
+L0302,Madan Ltd,Retail,10-50,2026-09-26,97,Qualified,"Interested in demo, follow up next week.",120000.0,4.0,False
+L0518,Bhatti Group,Manufacturing,10-50,2026-04-02,97,Qualified,,500000.0,181.0,True
+L0507,"Kakar, Gour and Sood",Retail,10-50,2025-10-27,97,Qualified,Currently evaluating competitors.,250000.0,338.0,True
+L0147,Kannan Ltd,SaaS,10-50,2025-12-20,97,New,"Met at conference, warm intro.",120000.0,284.0,True
+L0672,"Doctor, Ganesan and Nayak",Healthcare,50-200,2026-07-22,97,Qualified,,500000.0,70.0,False
+L0170,"Mody, Raval and Sule",SaaS,50-200,2026-05-22,97,Qualified,"Requested pricing sheet, no response since.",0.0,131.0,False
+L0018,Bhat Ltd,Manufacturing,2000-5000,2026-06-30,97,Contacted,,0.0,92.0,False
+L0510,Om Inc,Manufacturing,10-50,,96,Contacted,Do not contact until Q3.,50000.0,,False
+L0521,Kale LLC,Manufacturing,50-200,,96,Qualified,Currently evaluating competitors.,50000.0,,False
+L0070,Baral Inc,Manufacturing,200-500,2026-03-14,96,Qualified,Currently evaluating competitors.,500000.0,200.0,True
+L0441,Gopal-Khare,Logistics,500-2000,2025-12-02,96,Qualified,"Requested pricing sheet, no response since.",0.0,302.0,True
+L0312,Kari-Kalla,Logistics,50-200,2025-09-30,96,Qualified,Said budget is tight this quarter.,250000.0,365.0,True
+L0540,Ravel-Bahri,Logistics,10-50,2025-09-13,96,Qualified,"Met at conference, warm intro.",50000.0,382.0,True
+L0178,Bail-Doctor,Healthcare,500-2000,2025-12-15,96,Qualified,Do not contact until Q3.,250000.0,289.0,True
+L0501,Barad Ltd,SaaS,10-50,2026-01-21,96,Qualified,"Interested in demo, follow up next week.",250000.0,252.0,True
+L0557,Varkey-Thakur,Logistics,50-200,2026-01-09,96,Qualified,,120000.0,264.0,True
+L0282,Wagle-Chaudhari,SaaS,10-50,2026-09-18,96,Contacted,Currently evaluating competitors.,500000.0,12.0,False
+L0076,Nagi PLC,Retail,10-50,2026-09-14,96,New,Currently evaluating competitors.,50000.0,16.0,False
+L0406,"Kant, Lall and Dalal",Healthcare,2000-5000,2025-12-22,95,New,"Interested in demo, follow up next week.",120000.0,282.0,True
+L0768,"Madan, Bajaj and Rastogi",Retail,2000-5000,2026-04-27,95,Contacted,,50000.0,156.0,False
+L0597,Lad-Agarwal,Manufacturing,50-200,2025-10-15,95,Qualified,Said budget is tight this quarter.,120000.0,350.0,True
+L0103,Chaudhry-Sahni,Manufacturing,2000-5000,2025-12-12,95,Contacted,,500000.0,292.0,True
+L0314,Pathak and Sons,Retail,2000-5000,,95,Qualified,"Met at conference, warm intro.",50000.0,,False
+L0522,Ranganathan-Dyal,Logistics,50-200,2025-11-02,95,Qualified,,250000.0,332.0,True
+L0013,Kata-Kunda,SaaS,50-200,2025-12-16,95,Contacted,Currently evaluating competitors.,500000.0,288.0,True
+L0047,Dhawan-Wali,Healthcare,2000-5000,2026-07-12,95,New,Do not contact until Q3.,120000.0,80.0,False
+L0001,Dutt-Mander,Retail,10-50,2026-05-12,94,Qualified,"Interested in demo, follow up next week.",0.0,141.0,False
+L0263,Dada-Sankaran,SaaS,2000-5000,2025-09-24,94,Contacted,Said budget is tight this quarter.,0.0,371.0,True
+L0699,Tella LLC,Retail,2000-5000,2026-03-19,94,New,Currently evaluating competitors.,50000.0,195.0,True
+L0098,Bhat-Natt,Retail,2000-5000,2026-08-10,94,Qualified,"Met at conference, warm intro.",120000.0,51.0,False
+L0620,Narang-Chaudhuri,SaaS,50-200,2026-05-07,94,New,Currently evaluating competitors.,0.0,146.0,False
+L0677,Mandal-Chaudhari,Retail,10-50,2026-09-02,94,Contacted,Do not contact until Q3.,120000.0,28.0,False
+L0575,"Prabhakar, Sharma and Jhaveri",Manufacturing,2000-5000,2025-09-05,94,Contacted,Said budget is tight this quarter.,500000.0,390.0,True
+L0207,Ramesh-Ganguly,Retail,2000-5000,2025-09-07,94,Contacted,Currently evaluating competitors.,0.0,388.0,True
+L0339,"Swaminathan, Parmer and Savant",Retail,50-200,2026-05-28,94,Contacted,Currently evaluating competitors.,250000.0,125.0,False
+L0432,Wadhwa-Nagy,Healthcare,50-200,2026-08-22,93,Qualified,"Met at conference, warm intro.",50000.0,39.0,False
+L9008,"Vig, Sarin and Mukherjee Pvt Ltd",Healthcare,50-200,2026-01-05,93,Contacted,"Requested pricing sheet, no response since.",500000.0,268.0,True
+L0386,Behl Ltd,SaaS,200-500,2026-07-31,93,Contacted,Do not contact until Q3.,0.0,61.0,False
+L0666,Devan-Talwar,Manufacturing,10-50,2025-12-08,93,Contacted,"Met at conference, warm intro.",250000.0,296.0,True
+L0374,Comar-Naidu,Retail,2000-5000,2026-03-17,93,Contacted,Said budget is tight this quarter.,120000.0,197.0,True
+L0010,Krish-Pingle,SaaS,2000-5000,2026-05-27,93,Contacted,,120000.0,126.0,False
+L0236,Contractor-Mitra,Manufacturing,200-500,2026-04-06,93,Qualified,"Met at conference, warm intro.",0.0,177.0,False
+L0720,Kapur and Sons,Healthcare,2000-5000,2025-11-10,93,Contacted,,120000.0,324.0,True
+L0703,Bawa-Wason,Healthcare,10-50,2026-01-16,92,Contacted,"Requested pricing sheet, no response since.",120000.0,257.0,True
+L0498,Palan-Ghosh,Logistics,2000-5000,2025-12-14,92,Qualified,Currently evaluating competitors.,250000.0,290.0,True
+L0760,"Amble, Mann and Swaminathan",Retail,50-200,2026-01-23,92,New,"Interested in demo, follow up next week.",120000.0,250.0,True
+L0297,Kurian-Ramesh,Healthcare,10-50,2026-02-01,92,Contacted,"Met at conference, warm intro.",120000.0,241.0,True
+L0062,"Sha, Saraf and Kade",Logistics,50-200,2025-10-08,91,Qualified,,120000.0,357.0,True
+L0516,"Sane, Kannan and Dora",Logistics,200-500,2025-09-17,91,Qualified,Said budget is tight this quarter.,120000.0,378.0,True
+L0684,Rout PLC,Healthcare,2000-5000,,91,Contacted,"Met at conference, warm intro.",250000.0,,False
+L0267,"Narayanan, Sood and Bahl",Healthcare,200-500,,91,Qualified,Currently evaluating competitors.,250000.0,,False
+L0788,Chawla and Sons,Retail,500-2000,2026-05-20,91,Qualified,Currently evaluating competitors.,0.0,133.0,False
+L0585,Prabhu-Dora,Logistics,200-500,,91,Contacted,,120000.0,,False
+L0317,Krish-Goel,Manufacturing,50-200,,91,Contacted,,120000.0,,False
+L0114,Parmar-Prabhakar,SaaS,500-2000,2026-05-03,91,New,"Requested pricing sheet, no response since.",500000.0,150.0,False
+L0433,Kapadia and Sons,Logistics,500-2000,2026-09-14,90,New,Said budget is tight this quarter.,500000.0,16.0,False
+L0350,Narang-Ahluwalia,Healthcare,500-2000,2026-02-14,90,New,"Interested in demo, follow up next week.",0.0,228.0,True
+L0355,Hegde Ltd,Logistics,200-500,2025-11-21,90,New,Do not contact until Q3.,120000.0,313.0,True
+L0560,"Banik, Prabhakar and Bhatia",Manufacturing,10-50,2026-01-06,90,Qualified,Currently evaluating competitors.,250000.0,267.0,True
+L0068,"Keer, De and Chaudhary",Healthcare,50-200,,90,New,"Requested pricing sheet, no response since.",500000.0,,False
+L0044,Devan-Tella,Healthcare,2000-5000,2026-02-23,90,New,,0.0,219.0,True
+L0208,Chatterjee-Suri,SaaS,500-2000,2026-01-27,89,Contacted,,50000.0,246.0,True
+L0790,Mohanty-Mitter,Manufacturing,50-200,2026-04-14,89,Contacted,"Requested pricing sheet, no response since.",500000.0,169.0,False
+L0574,"Sridhar, Dasgupta and Bora",Manufacturing,10-50,2026-01-01,89,Contacted,Do not contact until Q3.,500000.0,272.0,True
+L0681,Jain Ltd,Manufacturing,50-200,2025-11-17,89,Contacted,"Interested in demo, follow up next week.",50000.0,317.0,True
+L0587,Kalita-Tella,Logistics,2000-5000,2026-06-03,89,Qualified,Said budget is tight this quarter.,250000.0,119.0,False
+L0633,Mane-Ram,Manufacturing,500-2000,2026-09-13,89,Contacted,"Interested in demo, follow up next week.",120000.0,17.0,False
+L9039,"Ganesh, Behl and Kohli Pvt Ltd",Retail,200-500,2026-08-04,88,Qualified,Said budget is tight this quarter.,250000.0,57.0,False
+L9007,Dube Group Pvt Ltd,SaaS,50-200,2025-10-13,88,Qualified,,50000.0,352.0,True
+L0514,Dutta-Wadhwa,Healthcare,2000-5000,2025-09-04,88,Contacted,"Met at conference, warm intro.",250000.0,391.0,True
+L9003,Bedi Inc Pvt Ltd,Manufacturing,200-500,2025-11-01,88,New,"Interested in demo, follow up next week.",50000.0,333.0,True
+L0478,Golla PLC,SaaS,50-200,2026-04-06,88,Qualified,Currently evaluating competitors.,0.0,177.0,False
+L0483,"Sachdeva, Srinivasan and Borra",Retail,10-50,2026-08-01,88,Qualified,"Requested pricing sheet, no response since.",250000.0,60.0,False
+L0424,Banerjee and Sons,SaaS,2000-5000,2025-11-19,88,Contacted,"Requested pricing sheet, no response since.",120000.0,315.0,True
+L0212,"Lala, Kannan and Kala",SaaS,500-2000,2026-01-18,88,New,Do not contact until Q3.,250000.0,255.0,True
+L0643,Varughese Inc,SaaS,10-50,2026-03-20,88,Contacted,"Interested in demo, follow up next week.",0.0,194.0,True
+L0080,Lata-Bala,Retail,2000-5000,2025-11-12,88,Qualified,Do not contact until Q3.,250000.0,322.0,True
+L0346,Narasimhan Group,SaaS,200-500,2026-07-19,88,Contacted,Currently evaluating competitors.,120000.0,73.0,False
+L0781,Sarin LLC,Logistics,10-50,2026-02-13,87,New,Said budget is tight this quarter.,250000.0,229.0,True
+L0127,"Sarna, Sami and Chandran",Healthcare,2000-5000,2026-05-29,87,Qualified,"Requested pricing sheet, no response since.",120000.0,124.0,False
+L0016,"Devi, Barman and Kunda",Logistics,10-50,2025-09-25,87,Qualified,Do not contact until Q3.,250000.0,370.0,True
+L0042,"Palla, Nath and Karpe",Manufacturing,50-200,2025-11-09,87,New,Do not contact until Q3.,250000.0,325.0,True
+L0442,"Sura, Chada and Bail",Healthcare,2000-5000,2026-01-29,87,Contacted,"Interested in demo, follow up next week.",250000.0,244.0,True
+L0472,"Sule, Madan and Peri",Logistics,10-50,2026-03-18,87,New,Said budget is tight this quarter.,120000.0,196.0,True
+L0491,"Aurora, Chandra and Thakur",Manufacturing,200-500,2026-04-22,86,New,Do not contact until Q3.,0.0,161.0,False
+L9000,Sanghvi-Gulati Pvt Ltd,Logistics,200-500,2026-02-07,86,New,Said budget is tight this quarter.,50000.0,235.0,True
+L0517,Jayaraman-Dugal,Manufacturing,200-500,2026-07-24,86,Qualified,Currently evaluating competitors.,120000.0,68.0,False
+L0599,Kata Ltd,Retail,10-50,2025-10-25,86,Qualified,Do not contact until Q3.,0.0,340.0,True
+L0285,Brar-Chanda,Healthcare,2000-5000,2025-10-04,86,Contacted,"Requested pricing sheet, no response since.",50000.0,361.0,True
+L0009,"Mann, Dewan and Kashyap",Manufacturing,50-200,2026-05-16,85,Qualified,Currently evaluating competitors.,50000.0,137.0,False
+L0532,Shah-Salvi,Retail,10-50,2026-04-05,85,Qualified,"Interested in demo, follow up next week.",120000.0,178.0,False
+L0271,Sahni-Khurana,SaaS,10-50,2026-07-31,85,New,,250000.0,61.0,False
+L0384,Narain LLC,Retail,200-500,2025-09-15,85,New,,50000.0,380.0,True
+L0216,Contractor Inc,Retail,10-50,2025-11-07,85,New,"Interested in demo, follow up next week.",120000.0,327.0,True
+L9016,Kothari-Balasubramanian Pvt Ltd,Healthcare,500-2000,2026-09-14,84,Contacted,,120000.0,16.0,False
+L0167,Uppal-Venkataraman,Manufacturing,500-2000,2026-02-24,84,Qualified,Said budget is tight this quarter.,250000.0,218.0,True
+L0400,Chhabra and Sons,Retail,500-2000,2026-07-25,84,Contacted,Do not contact until Q3.,250000.0,67.0,False
+L0214,"Mishra, Ghose and Sura",Retail,200-500,2026-05-01,84,Qualified,Said budget is tight this quarter.,500000.0,152.0,False
+L0492,"Talwar, Radhakrishnan and Mishra",Retail,50-200,2025-11-02,84,Contacted,Currently evaluating competitors.,500000.0,332.0,True
+L0621,"Khare, Dalal and Dugal",Retail,10-50,2026-03-31,84,Qualified,"Requested pricing sheet, no response since.",500000.0,183.0,True
+L0581,Srivastava-Vaidya,Healthcare,50-200,2026-07-31,84,New,"Interested in demo, follow up next week.",120000.0,61.0,False
+L0304,Buch Group,Logistics,500-2000,,84,New,"Interested in demo, follow up next week.",500000.0,,False
+L0117,"Sant, Mangat and Nagarajan",Logistics,2000-5000,2026-01-22,84,Contacted,"Met at conference, warm intro.",500000.0,251.0,True
+L0110,"Kannan, Chaudhry and Bhagat",Logistics,10-50,2025-12-26,84,Contacted,Currently evaluating competitors.,0.0,278.0,True
+L0494,Chada LLC,Healthcare,500-2000,2026-07-06,83,New,Do not contact until Q3.,50000.0,86.0,False
+L9015,Chokshi-Mitter Pvt Ltd,Retail,200-500,2026-07-27,83,Qualified,Said budget is tight this quarter.,0.0,65.0,False
+L0040,"Mahal, Badami and Sur",Manufacturing,2000-5000,,83,New,,250000.0,,False
+L0799,"Sant, Kapur and Wali",SaaS,500-2000,2026-09-20,83,Qualified,Said budget is tight this quarter.,50000.0,10.0,False
+L0281,"Mistry, Shetty and Wali",Logistics,50-200,2026-04-04,83,New,Currently evaluating competitors.,500000.0,179.0,False
+L0143,Kannan-Ghosh,SaaS,500-2000,2026-08-10,83,Qualified,"Interested in demo, follow up next week.",250000.0,51.0,False
+L0233,"Pal, Borde and Dixit",Logistics,200-500,2026-06-14,83,Qualified,"Requested pricing sheet, no response since.",50000.0,108.0,False
+L0675,Jaggi PLC,Manufacturing,2000-5000,2026-09-17,83,Contacted,Currently evaluating competitors.,250000.0,13.0,False
+L0012,Parekh-Sandal,Manufacturing,50-200,2026-01-17,83,Contacted,Said budget is tight this quarter.,500000.0,256.0,True
+L0308,"Sankaran, Chahal and Choudhry",Manufacturing,10-50,2025-11-01,83,Contacted,"Requested pricing sheet, no response since.",0.0,333.0,True
+L9041,"Date, Ranganathan and Narain Pvt Ltd",Logistics,50-200,2026-07-15,82,New,"Interested in demo, follow up next week.",50000.0,77.0,False
+L0333,"Kar, Kumar and Radhakrishnan",Manufacturing,50-200,,82,Contacted,Do not contact until Q3.,500000.0,,False
+L0502,Misra-Rastogi,SaaS,2000-5000,2026-03-20,82,Qualified,"Requested pricing sheet, no response since.",500000.0,194.0,True
+L0787,Jhaveri LLC,Healthcare,50-200,2026-01-21,82,Qualified,Said budget is tight this quarter.,500000.0,252.0,True
+L0073,Sem-Gala,Retail,10-50,2026-02-22,82,Contacted,"Met at conference, warm intro.",50000.0,220.0,True
+L0234,Kumar Inc,Logistics,200-500,2026-04-28,82,Contacted,"Met at conference, warm intro.",500000.0,155.0,False
+L0453,"Narang, Anand and Ghosh",Healthcare,2000-5000,2026-08-15,82,Contacted,,500000.0,46.0,False
+L0649,"Raval, Borah and Bala",Manufacturing,500-2000,2026-04-18,82,New,"Interested in demo, follow up next week.",50000.0,165.0,False
+L0183,Mani PLC,Retail,2000-5000,,82,Qualified,Currently evaluating competitors.,500000.0,,False
+L0260,Sharaf Group,Logistics,50-200,,81,Qualified,"Interested in demo, follow up next week.",500000.0,,False
+L0482,Mander-Sule,Retail,500-2000,2026-05-22,81,New,,50000.0,131.0,False
+L0468,Pau-Chakrabarti,SaaS,2000-5000,2026-01-29,81,New,Do not contact until Q3.,250000.0,244.0,True
+L0362,"Subramanian, Agrawal and Deshmukh",Retail,500-2000,2025-10-24,81,Contacted,Said budget is tight this quarter.,500000.0,341.0,True
+L0381,"Kant, Subramanian and Bhattacharyya",Healthcare,10-50,2025-12-29,81,New,"Met at conference, warm intro.",50000.0,275.0,True
+L0543,"Savant, Madan and Bhattacharyya",Logistics,200-500,2026-07-18,81,Qualified,"Interested in demo, follow up next week.",250000.0,74.0,False
+L0107,Puri-Narayan,Logistics,500-2000,2026-01-21,81,Contacted,"Met at conference, warm intro.",500000.0,252.0,True
+L0202,Palan-Luthra,SaaS,500-2000,2025-11-15,81,Qualified,"Requested pricing sheet, no response since.",0.0,319.0,True
+L0726,"Mishra, Morar and Dhillon",Healthcare,50-200,2026-02-06,80,Contacted,"Requested pricing sheet, no response since.",250000.0,236.0,True
+L0656,Tandon-Sharaf,SaaS,2000-5000,2026-06-30,80,Qualified,Do not contact until Q3.,50000.0,92.0,False
+L0111,"Bhatt, Krish and Kota",Logistics,500-2000,2026-02-15,80,Contacted,"Met at conference, warm intro.",120000.0,227.0,True
+L0686,"Sarna, Bora and Sachdeva",Manufacturing,10-50,2026-05-21,80,Contacted,Currently evaluating competitors.,50000.0,132.0,False
+L0203,Virk Ltd,Logistics,10-50,2026-01-09,80,New,"Requested pricing sheet, no response since.",250000.0,264.0,True
+L0474,"Muni, Menon and Lad",Healthcare,200-500,2026-07-01,80,Contacted,"Requested pricing sheet, no response since.",0.0,91.0,False
+L0038,Agarwal-Dua,Retail,500-2000,2025-12-15,79,Qualified,Said budget is tight this quarter.,0.0,289.0,True
+L0122,Srinivas Group,Manufacturing,200-500,2025-10-10,79,Qualified,"Met at conference, warm intro.",0.0,355.0,True
+L0411,Subramanian-Mangat,Retail,2000-5000,2025-11-18,79,Contacted,Currently evaluating competitors.,500000.0,316.0,True
+L0055,Chand Ltd,Retail,200-500,2026-04-22,79,Qualified,"Met at conference, warm intro.",0.0,161.0,False
+L0748,"Boase, Bal and Bhat",Healthcare,50-200,2026-05-28,79,Contacted,"Interested in demo, follow up next week.",500000.0,125.0,False
+L0181,Bhasin-Bhatti,Retail,10-50,2025-11-29,78,Qualified,"Requested pricing sheet, no response since.",50000.0,305.0,True
+L0604,Parikh Ltd,Manufacturing,200-500,2026-05-20,78,Qualified,"Requested pricing sheet, no response since.",250000.0,133.0,False
+L0420,"Khalsa, Chokshi and Bhagat",Retail,200-500,2026-06-18,78,Contacted,Do not contact until Q3.,120000.0,104.0,False
+L0221,Hayre Group,Healthcare,50-200,2026-05-06,78,New,"Interested in demo, follow up next week.",120000.0,147.0,False
+L0200,Sinha-Brar,Healthcare,500-2000,2026-09-27,78,New,Said budget is tight this quarter.,0.0,3.0,False
+L0702,"Srivastava, Sura and Chacko",Healthcare,200-500,2026-09-02,78,Qualified,Do not contact until Q3.,500000.0,28.0,False
+L0673,Sarna-Manda,SaaS,2000-5000,2025-09-18,78,Contacted,Do not contact until Q3.,250000.0,377.0,True
+L0085,"Anne, Madan and Reddy",Healthcare,2000-5000,2025-10-22,78,Contacted,Do not contact until Q3.,0.0,343.0,True
+L0324,Korpal Ltd,Healthcare,2000-5000,2026-06-21,78,Contacted,"Interested in demo, follow up next week.",0.0,101.0,False
+L0057,Dada-Lad,Healthcare,50-200,2025-12-12,78,Contacted,"Met at conference, warm intro.",50000.0,292.0,True
+L0272,"Krish, Saraf and Dugal",Manufacturing,200-500,2026-06-08,78,Contacted,Said budget is tight this quarter.,0.0,114.0,False
+L0778,"Karnik, Kari and Pillay",Manufacturing,500-2000,2025-10-31,78,New,Do not contact until Q3.,250000.0,334.0,True
+L0714,"Prasad, Chaudhuri and Iyer",SaaS,200-500,2025-10-26,78,Qualified,"Requested pricing sheet, no response since.",120000.0,339.0,True
+L0268,"Mittal, Shankar and Ratti",SaaS,50-200,2025-11-06,78,Contacted,"Interested in demo, follow up next week.",250000.0,328.0,True
+L0744,Mukherjee Inc,SaaS,50-200,2026-05-20,78,Contacted,Do not contact until Q3.,250000.0,133.0,False
+L0218,"Malhotra, Bhasin and Lall",Logistics,10-50,2026-07-13,77,New,"Requested pricing sheet, no response since.",250000.0,79.0,False
+L0132,"Swaminathan, Devan and Johal",Logistics,10-50,2025-09-13,77,New,Do not contact until Q3.,250000.0,382.0,True
+L0182,Khatri PLC,SaaS,200-500,2026-01-29,77,Contacted,"Interested in demo, follow up next week.",500000.0,244.0,True
+L0485,"Khanna, Sarraf and Chand",Manufacturing,2000-5000,2025-10-06,77,Qualified,Currently evaluating competitors.,50000.0,359.0,True
+L0426,Kota PLC,Retail,50-200,2026-04-20,77,Qualified,,120000.0,163.0,False
+L0584,Kalla PLC,Manufacturing,10-50,2026-09-10,77,Qualified,Currently evaluating competitors.,500000.0,20.0,False
+L0746,Pandya PLC,Manufacturing,200-500,2025-12-09,77,Qualified,Do not contact until Q3.,0.0,295.0,True
+L0265,Khalsa Ltd,Manufacturing,2000-5000,2026-08-06,77,Qualified,,500000.0,55.0,False
+L0078,"Sandhu, Uppal and Anne",Manufacturing,50-200,2025-11-23,77,New,"Met at conference, warm intro.",120000.0,311.0,True
+L0166,Prabhakar LLC,Manufacturing,2000-5000,2026-08-17,76,New,,50000.0,44.0,False
+L0191,"Purohit, Sekhon and Thaman",Logistics,50-200,2026-03-21,76,Contacted,,120000.0,193.0,True
+L0572,"Sekhon, Dhar and Agrawal",Healthcare,2000-5000,2026-09-10,76,Contacted,"Interested in demo, follow up next week.",50000.0,20.0,False
+L0015,"Deol, Iyer and Puri",SaaS,500-2000,2026-08-28,76,Contacted,Currently evaluating competitors.,500000.0,33.0,False
+L0694,Batra-Parmar,Logistics,50-200,2026-06-03,76,Qualified,"Interested in demo, follow up next week.",0.0,119.0,False
+L0332,Naik-Patla,Manufacturing,2000-5000,2025-11-07,76,Qualified,Said budget is tight this quarter.,0.0,327.0,True
+L0035,Halder Ltd,SaaS,10-50,2026-08-26,76,New,Currently evaluating competitors.,50000.0,35.0,False
+L0711,Dutt-Mahal,Healthcare,10-50,,76,Qualified,Currently evaluating competitors.,250000.0,,False
+L0570,Dhar and Sons,Manufacturing,500-2000,,76,New,"Interested in demo, follow up next week.",120000.0,,False
+L0344,Badal Inc,Logistics,500-2000,2026-08-02,75,Qualified,Do not contact until Q3.,120000.0,59.0,False
+L0328,Goswami PLC,Logistics,50-200,2025-12-24,75,Contacted,,50000.0,280.0,True
+L0002,Chaudhuri-Patel,Logistics,10-50,,75,Qualified,Said budget is tight this quarter.,0.0,,False
+L0495,Thaker and Sons,Retail,500-2000,2026-01-25,75,Contacted,Currently evaluating competitors.,120000.0,248.0,True
+L0159,Sarna-Varghese,Logistics,10-50,2025-12-16,75,Qualified,"Met at conference, warm intro.",500000.0,288.0,True
+L0345,"Prashad, Sem and Krishnamurthy",Manufacturing,2000-5000,2026-08-17,75,New,"Met at conference, warm intro.",120000.0,44.0,False
+L0554,"Yogi, Chanda and Boase",Retail,2000-5000,2026-03-06,74,Contacted,Currently evaluating competitors.,50000.0,208.0,True
+L0331,Bhatt Group,Logistics,500-2000,2026-03-08,74,New,Currently evaluating competitors.,500000.0,206.0,True
+L0052,Mander and Sons,Manufacturing,50-200,,74,Contacted,,250000.0,,False
+L0766,"Chacko, Dar and Kapadia",Retail,2000-5000,2026-04-23,74,Contacted,"Requested pricing sheet, no response since.",50000.0,160.0,False
+L0249,Dugar Inc,Retail,500-2000,2026-04-25,74,Contacted,Currently evaluating competitors.,50000.0,158.0,False
+L0640,Hora-Chowdhury,Retail,10-50,2025-10-11,74,New,Do not contact until Q3.,250000.0,354.0,True
+L0512,Padmanabhan Ltd,Logistics,500-2000,2026-01-25,74,Qualified,,120000.0,248.0,True
+L0475,Dugar-Parmar,SaaS,50-200,2025-09-03,73,Qualified,Said budget is tight this quarter.,50000.0,392.0,True
+L0443,"Bhagat, Halder and Loke",Retail,2000-5000,2026-01-08,73,Contacted,"Interested in demo, follow up next week.",120000.0,265.0,True
+L0449,Nayar Ltd,Healthcare,500-2000,2025-11-22,73,Qualified,Said budget is tight this quarter.,500000.0,312.0,True
+L0663,"Venkatesh, Kakar and Ramakrishnan",Logistics,2000-5000,,73,Contacted,Said budget is tight this quarter.,120000.0,,False
+L0671,"Radhakrishnan, Rana and Sarkar",Retail,500-2000,,73,Qualified,"Requested pricing sheet, no response since.",50000.0,,False
+L0612,Modi-Peri,Logistics,50-200,2025-12-09,73,Contacted,"Met at conference, warm intro.",250000.0,295.0,True
+L0007,"Rajan, Badami and Kalita",Logistics,200-500,2026-06-23,73,Contacted,Said budget is tight this quarter.,0.0,99.0,False
+L0275,Khare Inc,Logistics,50-200,2025-12-29,73,Qualified,"Interested in demo, follow up next week.",500000.0,275.0,True
+L0769,"Garde, Ganesh and Char",Logistics,50-200,2026-09-03,73,Contacted,"Met at conference, warm intro.",50000.0,27.0,False
+L0767,"Murty, Issac and Kalita",Logistics,500-2000,2025-09-19,73,New,"Met at conference, warm intro.",250000.0,376.0,True
+L0736,Natarajan and Sons,Manufacturing,10-50,2025-09-06,73,New,Said budget is tight this quarter.,250000.0,389.0,True
+L0342,Balan-Reddy,Manufacturing,10-50,2026-08-08,73,New,"Met at conference, warm intro.",250000.0,53.0,False
+L0250,Bhatia-Pai,Manufacturing,2000-5000,2026-06-05,73,Qualified,Currently evaluating competitors.,120000.0,117.0,False
+L0357,Pandya Group,Manufacturing,200-500,2026-05-16,73,Contacted,Said budget is tight this quarter.,50000.0,137.0,False
+L0356,Natarajan Ltd,SaaS,10-50,2026-04-03,72,Qualified,"Met at conference, warm intro.",120000.0,180.0,False
+L0243,"Karnik, Khare and Sekhon",Healthcare,10-50,2025-12-16,72,Qualified,"Requested pricing sheet, no response since.",50000.0,288.0,True
+L0081,Baria Inc,Logistics,10-50,,72,Qualified,"Interested in demo, follow up next week.",250000.0,,False
+L0473,"Bhatia, Dhillon and Ramaswamy",Manufacturing,500-2000,2026-02-07,72,New,Do not contact until Q3.,120000.0,235.0,True
+L0418,"Dayal, Chaudhari and Pall",Manufacturing,2000-5000,2026-07-19,72,Contacted,Currently evaluating competitors.,500000.0,73.0,False
+L0298,"Dave, Kari and Wable",Healthcare,10-50,2026-06-08,72,Qualified,Currently evaluating competitors.,0.0,114.0,False
+L0754,"Taneja, Ray and Suri",Manufacturing,200-500,2025-10-17,72,Contacted,,500000.0,348.0,True
+L0164,"Mandal, Deep and Sama",SaaS,50-200,2025-10-28,72,New,,0.0,337.0,True
+L0609,"Bhargava, Datta and Gera",Manufacturing,200-500,,71,New,Said budget is tight this quarter.,0.0,,False
+L0140,Chanda-Rana,Retail,2000-5000,2026-04-15,71,Contacted,,50000.0,168.0,False
+L0504,Minhas PLC,Healthcare,10-50,,71,Qualified,Currently evaluating competitors.,0.0,,False
+L0505,Verma-Ramesh,Manufacturing,2000-5000,2026-06-16,71,New,"Met at conference, warm intro.",250000.0,106.0,False
+L0289,More Ltd,SaaS,500-2000,,71,Qualified,Do not contact until Q3.,500000.0,,False
+L0627,"Mukhopadhyay, Memon and Puri",SaaS,500-2000,2026-02-18,71,Contacted,Do not contact until Q3.,500000.0,224.0,True
+L0245,Kannan-Chokshi,Manufacturing,200-500,2026-03-26,71,New,Currently evaluating competitors.,500000.0,188.0,True
+L0747,Mittal-Tak,Retail,200-500,,71,Qualified,"Requested pricing sheet, no response since.",500000.0,,False
+L0003,Bhasin PLC,Logistics,10-50,2026-06-20,71,Contacted,Said budget is tight this quarter.,500000.0,102.0,False
+L0607,Sekhon-Ravi,Manufacturing,50-200,2026-02-20,71,New,"Requested pricing sheet, no response since.",120000.0,222.0,True
+L0446,Thakkar-Dyal,Logistics,500-2000,2026-04-16,70,Qualified,Do not contact until Q3.,50000.0,167.0,False
+L0223,Parmer-Dave,Manufacturing,10-50,2025-12-26,70,Qualified,,120000.0,278.0,True
+L0320,Iyengar-Bobal,Retail,200-500,2026-08-13,70,Contacted,"Interested in demo, follow up next week.",500000.0,48.0,False
+L0225,Mitter LLC,Retail,200-500,2025-12-10,70,New,Currently evaluating competitors.,120000.0,294.0,True
+L0780,"Bumb, Walla and Gala",SaaS,200-500,2026-09-24,70,New,"Requested pricing sheet, no response since.",50000.0,6.0,False
+L0756,Ganesh LLC,Retail,200-500,,70,Contacted,"Interested in demo, follow up next week.",250000.0,,False
+L0261,"Parekh, Swaminathan and Sur",SaaS,10-50,2026-07-11,70,Qualified,"Requested pricing sheet, no response since.",500000.0,81.0,False
+L0375,Ahuja-Tak,Retail,50-200,2025-11-26,70,Qualified,Do not contact until Q3.,50000.0,308.0,True
+L0791,"Khare, Sahni and Hans",Healthcare,10-50,,69,Qualified,"Interested in demo, follow up next week.",500000.0,,False
+L0026,"Kaul, Suresh and Ganguly",Healthcare,50-200,2026-07-24,69,Contacted,Said budget is tight this quarter.,500000.0,68.0,False
+L0430,Mittal PLC,Healthcare,200-500,2026-03-21,69,Contacted,Said budget is tight this quarter.,120000.0,193.0,True
+L0311,Gill-Sanghvi,Retail,200-500,2025-12-15,69,New,"Interested in demo, follow up next week.",250000.0,289.0,True
+L0205,"Subramaniam, Prabhakar and Choudhry",Retail,2000-5000,2026-01-13,69,Contacted,"Requested pricing sheet, no response since.",50000.0,260.0,True
+L0573,"Banik, Ravel and Sachdeva",SaaS,2000-5000,2026-09-29,69,Contacted,Currently evaluating competitors.,500000.0,1.0,False
+L0525,Korpal PLC,Manufacturing,2000-5000,2025-09-16,69,Contacted,"Met at conference, warm intro.",120000.0,379.0,True
+L0634,Devan-Jha,Healthcare,10-50,2026-02-01,69,Contacted,Do not contact until Q3.,250000.0,241.0,True
+L0305,Singh and Sons,Logistics,200-500,,68,New,Do not contact until Q3.,500000.0,,False
+L0592,"Luthra, Shan and Menon",Logistics,200-500,2025-12-09,68,Contacted,Currently evaluating competitors.,500000.0,295.0,True
+L0142,"Sood, Lala and Pingle",Retail,50-200,2026-07-22,68,Qualified,Currently evaluating competitors.,500000.0,70.0,False
+L0006,"Nath, Mammen and Brahmbhatt",Retail,500-2000,2026-07-28,68,Qualified,Do not contact until Q3.,250000.0,64.0,False
+L0753,Choudhary Inc,SaaS,500-2000,2026-05-03,68,Qualified,Said budget is tight this quarter.,120000.0,150.0,False
+L0737,"Desai, Mani and Subramanian",Manufacturing,200-500,2026-04-19,68,New,Said budget is tight this quarter.,250000.0,164.0,False
+L0248,Kala and Sons,Logistics,2000-5000,2026-01-22,68,Contacted,"Met at conference, warm intro.",50000.0,251.0,True
+L0193,"Gopal, Bandi and Tella",Healthcare,50-200,2026-05-30,68,New,Do not contact until Q3.,500000.0,123.0,False
+L0416,"Raju, Mann and Chanda",SaaS,200-500,,68,Contacted,Currently evaluating competitors.,120000.0,,False
+L0201,Chacko-Hegde,Logistics,2000-5000,2026-02-25,67,New,"Interested in demo, follow up next week.",250000.0,217.0,True
+L0651,Handa-Raghavan,Healthcare,500-2000,2025-11-14,67,Qualified,Said budget is tight this quarter.,250000.0,320.0,True
+L0219,"Badal, Bahl and Patla",Logistics,50-200,2026-03-26,67,New,"Interested in demo, follow up next week.",120000.0,188.0,True
+L0306,"Magar, Comar and Baria",Retail,10-50,2026-07-15,67,Contacted,Do not contact until Q3.,250000.0,77.0,False
+L0415,Ramesh-Kapadia,Retail,500-2000,2026-03-30,67,New,"Interested in demo, follow up next week.",120000.0,184.0,True
+L0719,Sridhar-Sarin,Manufacturing,200-500,2025-12-09,67,Qualified,Currently evaluating competitors.,120000.0,295.0,True
+L0372,Borde-Mangat,SaaS,10-50,,67,Qualified,"Met at conference, warm intro.",500000.0,,False
+L0777,Chopra-Johal,Healthcare,200-500,2025-10-15,67,Qualified,Currently evaluating competitors.,0.0,350.0,True
+L0274,Mannan Inc,Logistics,10-50,2026-02-13,67,Qualified,"Interested in demo, follow up next week.",50000.0,229.0,True
+L0577,"Mishra, Kade and Sami",Retail,2000-5000,2026-07-31,66,Contacted,,120000.0,61.0,False
+L0559,Sule-Dua,Retail,50-200,2026-03-29,66,Qualified,"Interested in demo, follow up next week.",50000.0,185.0,True
+L0562,Bail-Konda,Healthcare,50-200,2026-03-06,66,Contacted,Do not contact until Q3.,500000.0,208.0,True
+L0595,Rout-Narayanan,Healthcare,200-500,,66,New,"Met at conference, warm intro.",120000.0,,False
+L0253,Gour-Parekh,Retail,50-200,2026-06-15,66,Contacted,Currently evaluating competitors.,500000.0,107.0,False
+L0376,Dhingra-Sahni,Manufacturing,50-200,2025-11-23,66,New,,250000.0,311.0,True
+L0054,"Hayer, Ratta and Nayak",Healthcare,10-50,2025-12-28,66,Contacted,"Met at conference, warm intro.",120000.0,276.0,True
+L0220,"Ghose, Sridhar and Chhabra",SaaS,500-2000,2026-03-15,66,Contacted,Do not contact until Q3.,0.0,199.0,True
+L0447,"Bajaj, Tandon and Balay",Logistics,2000-5000,2025-08-25,66,Qualified,Currently evaluating competitors.,120000.0,401.0,True
+L0352,Krishna-Dubey,Healthcare,2000-5000,2026-08-03,65,New,Currently evaluating competitors.,250000.0,58.0,False
+L0053,Dhawan-Wagle,Healthcare,2000-5000,2026-08-01,65,Qualified,"Interested in demo, follow up next week.",250000.0,60.0,False
+L0405,Kothari LLC,Manufacturing,500-2000,2026-09-04,65,Contacted,"Interested in demo, follow up next week.",120000.0,26.0,False
+L0151,Raval Inc,Healthcare,200-500,2025-11-30,65,Qualified,,50000.0,304.0,True
+L0224,"Batra, Baria and Singhal",SaaS,200-500,2026-06-07,65,Contacted,Said budget is tight this quarter.,120000.0,115.0,False
+L0770,Badami LLC,Retail,50-200,2026-08-21,64,Contacted,Currently evaluating competitors.,120000.0,40.0,False
+L0511,Prasad Group,Healthcare,2000-5000,2026-07-23,64,New,,0.0,69.0,False
+L0190,"Sule, Ganesan and Modi",Manufacturing,10-50,2025-08-31,64,Contacted,,50000.0,395.0,True
+L0563,"Dhawan, Narayanan and Sibal",Logistics,10-50,2026-07-20,64,New,Said budget is tight this quarter.,250000.0,72.0,False
+L0571,"Mahal, Ganesan and Radhakrishnan",SaaS,2000-5000,2025-10-14,64,New,"Interested in demo, follow up next week.",0.0,351.0,True
+L0695,Agate-Savant,Healthcare,50-200,2025-11-24,64,Contacted,Do not contact until Q3.,120000.0,310.0,True
+L0104,Khanna-Soman,Healthcare,200-500,2025-12-27,64,Contacted,"Interested in demo, follow up next week.",0.0,277.0,True
+L0658,"Mital, Nagi and Raval",Logistics,500-2000,2026-04-10,64,Contacted,"Met at conference, warm intro.",500000.0,173.0,False
+L0503,Rama-Dada,Healthcare,10-50,2026-02-13,63,Contacted,"Interested in demo, follow up next week.",50000.0,229.0,True
+L0608,"Sengupta, Dhingra and Saini",SaaS,500-2000,2026-07-23,63,Contacted,Do not contact until Q3.,250000.0,69.0,False
+L0385,Gour-Manne,Retail,50-200,2026-04-05,63,Contacted,Said budget is tight this quarter.,250000.0,178.0,False
+L0641,"Kapadia, Gokhale and Rao",SaaS,50-200,2026-08-14,63,Contacted,"Interested in demo, follow up next week.",50000.0,47.0,False
+L0276,Puri PLC,SaaS,2000-5000,2026-08-14,62,New,"Requested pricing sheet, no response since.",50000.0,47.0,False
+L0347,"Kamdar, Chander and Rege",Healthcare,50-200,2025-11-08,62,New,Currently evaluating competitors.,120000.0,326.0,True
+L0750,"Mukhopadhyay, Aggarwal and Deep",Retail,2000-5000,2026-08-02,62,Contacted,Do not contact until Q3.,50000.0,59.0,False
+L0153,Ramesh LLC,Healthcare,10-50,2025-09-30,62,Contacted,"Interested in demo, follow up next week.",0.0,365.0,True
+L0549,"Swaminathan, Dhar and Loyal",SaaS,200-500,2026-02-11,62,Qualified,Currently evaluating competitors.,120000.0,231.0,True
+L0796,Bera and Sons,Logistics,50-200,,62,Qualified,"Requested pricing sheet, no response since.",250000.0,,False
+L0698,"Gour, Nayak and Kota",Healthcare,2000-5000,2025-10-12,62,Contacted,"Requested pricing sheet, no response since.",120000.0,353.0,True
+L0031,Varghese Ltd,SaaS,500-2000,2026-01-26,62,Contacted,Said budget is tight this quarter.,50000.0,247.0,True
+L0480,Mistry-Mander,SaaS,200-500,2026-03-30,62,New,"Interested in demo, follow up next week.",500000.0,184.0,True
+L0552,Yadav-Wali,Manufacturing,200-500,2025-12-21,62,Contacted,Do not contact until Q3.,50000.0,283.0,True
+L0326,"Kapoor, Chada and Loke",Logistics,50-200,2026-04-22,61,Qualified,"Met at conference, warm intro.",250000.0,161.0,False
+L0718,Pant PLC,Logistics,10-50,2025-09-24,61,Qualified,"Requested pricing sheet, no response since.",250000.0,371.0,True
+L0732,Bumb-Majumdar,Logistics,10-50,2026-01-16,61,Qualified,,500000.0,257.0,True
+L0294,"Keer, Gala and Baria",Logistics,50-200,2026-06-15,61,New,Said budget is tight this quarter.,50000.0,107.0,False
+L0034,Barad-Gaba,Retail,2000-5000,2026-01-15,61,New,Currently evaluating competitors.,50000.0,258.0,True
+L9046,Sha-Patil Pvt Ltd,Retail,200-500,2026-07-03,61,Qualified,Currently evaluating competitors.,50000.0,89.0,False
+L0565,"Lala, Menon and Bansal",Manufacturing,10-50,2025-10-19,61,Contacted,,120000.0,346.0,True
+L0059,"Rana, Sheth and Yohannan",SaaS,2000-5000,2025-09-18,60,Qualified,Currently evaluating competitors.,0.0,377.0,True
+L0077,"Subramanian, Panchal and Goswami",SaaS,50-200,2025-10-22,60,Contacted,,500000.0,343.0,True
+L0089,Mittal-Tripathi,Logistics,200-500,2025-12-20,60,Qualified,"Met at conference, warm intro.",250000.0,284.0,True
+L0075,Chaudhari PLC,Manufacturing,10-50,2026-09-20,60,New,"Met at conference, warm intro.",0.0,10.0,False
+L0555,Sibal LLC,Logistics,2000-5000,2025-10-30,60,Qualified,Do not contact until Q3.,120000.0,335.0,True
+L0438,"Khatri, Mukherjee and Natarajan",Manufacturing,500-2000,2026-01-22,60,Contacted,Said budget is tight this quarter.,500000.0,251.0,True
+L0210,Balay PLC,Healthcare,2000-5000,,60,New,"Met at conference, warm intro.",250000.0,,False
+L0094,Banik and Sons,Logistics,200-500,2026-01-27,60,Contacted,"Met at conference, warm intro.",50000.0,246.0,True
+L0390,"Gade, Chakraborty and Gole",SaaS,10-50,2026-03-27,60,Qualified,Currently evaluating competitors.,50000.0,187.0,True
+L0610,Majumdar-Kapur,SaaS,200-500,,60,Contacted,"Met at conference, warm intro.",250000.0,,False
+L0061,"De, Dixit and Uppal",Retail,50-200,2025-11-21,60,Qualified,"Requested pricing sheet, no response since.",0.0,313.0,True
+L0072,"Palla, Malhotra and Rau",Healthcare,50-200,2026-07-26,59,Qualified,Currently evaluating competitors.,500000.0,66.0,False
+L0775,Brar Inc,Retail,50-200,2026-03-09,59,Qualified,"Requested pricing sheet, no response since.",120000.0,205.0,True
+L0291,"Dhar, Din and Walla",Manufacturing,50-200,2026-08-31,59,New,"Requested pricing sheet, no response since.",120000.0,30.0,False
+L0556,Murthy LLC,Manufacturing,50-200,2026-01-16,59,New,,50000.0,257.0,True
+L9047,Gola-Mitra Pvt Ltd,Logistics,200-500,,59,Contacted,Said budget is tight this quarter.,50000.0,,False
+L0409,Natarajan-Vyas,Retail,10-50,2026-09-04,59,New,"Requested pricing sheet, no response since.",500000.0,26.0,False
+L0471,"Sahni, Shah and Kurian",Logistics,200-500,2026-07-31,59,New,"Requested pricing sheet, no response since.",50000.0,61.0,False
+L0283,Raghavan-Kibe,SaaS,50-200,2026-04-05,58,Qualified,"Interested in demo, follow up next week.",50000.0,178.0,False
+L0277,Agate Inc,Logistics,500-2000,,58,New,,250000.0,,False
+L0798,Khosla Inc,SaaS,2000-5000,2025-10-17,58,New,"Interested in demo, follow up next week.",120000.0,348.0,True
+L0121,"Chakraborty, Kohli and Viswanathan",Retail,2000-5000,2026-09-22,58,Contacted,"Interested in demo, follow up next week.",120000.0,8.0,False
+L0074,"Ravi, Biswas and Ganguly",Manufacturing,50-200,2026-04-15,58,Contacted,Do not contact until Q3.,250000.0,168.0,False
+L0636,Sahni-Prashad,Retail,50-200,2025-09-18,58,Contacted,"Requested pricing sheet, no response since.",120000.0,377.0,True
+L0064,Sachdeva-Bora,SaaS,10-50,2026-07-23,58,Contacted,Do not contact until Q3.,250000.0,69.0,False
+L0537,Bhardwaj-Tripathi,SaaS,10-50,2025-09-27,58,New,"Interested in demo, follow up next week.",0.0,368.0,True
+L0361,"De, Hayre and More",Manufacturing,200-500,2026-01-23,58,Qualified,Do not contact until Q3.,0.0,250.0,True
+L0155,Bawa-Basak,Logistics,200-500,2026-01-14,58,New,,0.0,259.0,True
+L0254,"Kanda, Char and Das",Manufacturing,50-200,2025-12-31,58,Contacted,Currently evaluating competitors.,250000.0,273.0,True
+L0152,"Narula, Chander and Solanki",Logistics,200-500,2025-11-04,58,Contacted,"Requested pricing sheet, no response since.",0.0,330.0,True
+L0630,"Lala, Arora and Apte",Healthcare,2000-5000,2026-05-13,57,New,"Interested in demo, follow up next week.",250000.0,140.0,False
+L9001,"Handa, Bhatt and Char Pvt Ltd",Logistics,2000-5000,,57,Qualified,"Met at conference, warm intro.",120000.0,,False
+L0197,"Jaggi, Sridhar and Krishnamurthy",Retail,50-200,2026-04-04,57,Contacted,Currently evaluating competitors.,500000.0,179.0,False
+L0029,"Badami, Sharma and Jain",SaaS,2000-5000,2026-07-20,57,New,Do not contact until Q3.,120000.0,72.0,False
+L0401,Randhawa-Shah,Manufacturing,200-500,2026-05-13,57,Qualified,Do not contact until Q3.,120000.0,140.0,False
+L0360,Basu-Barad,Healthcare,500-2000,2026-08-22,57,Qualified,"Requested pricing sheet, no response since.",50000.0,39.0,False
+L0341,Swamy Group,Logistics,50-200,2025-11-30,57,New,Said budget is tight this quarter.,0.0,304.0,True
+L0215,"Yohannan, Barman and Yadav",Healthcare,200-500,2026-09-08,57,Qualified,"Met at conference, warm intro.",500000.0,22.0,False
+L0428,Sant PLC,Retail,200-500,2026-09-24,57,Contacted,"Met at conference, warm intro.",50000.0,6.0,False
+L9030,Krish-Tak Pvt Ltd,Manufacturing,2000-5000,2026-07-22,56,Qualified,Currently evaluating competitors.,120000.0,70.0,False
+L0624,Raja-Mutti,SaaS,10-50,2026-04-25,56,New,"Interested in demo, follow up next week.",250000.0,158.0,False
+L0616,Goyal LLC,Healthcare,200-500,2025-08-26,56,New,"Requested pricing sheet, no response since.",500000.0,400.0,True
+L0144,"Dhaliwal, Venkatesh and Dara",Manufacturing,50-200,2026-02-14,56,Contacted,,50000.0,228.0,True
+L0129,Sampath-Khurana,SaaS,10-50,2026-04-06,56,Contacted,,500000.0,177.0,False
+L0097,Patla-Dugar,Healthcare,500-2000,2026-04-30,56,Qualified,Currently evaluating competitors.,250000.0,153.0,False
+L0676,Gopal LLC,Logistics,50-200,2026-09-07,56,Qualified,Said budget is tight this quarter.,250000.0,23.0,False
+L0194,Dar Group,Manufacturing,2000-5000,2026-02-05,56,New,Said budget is tight this quarter.,500000.0,237.0,True
+L0179,Dora and Sons,Manufacturing,50-200,2026-08-26,56,New,Currently evaluating competitors.,250000.0,35.0,False
+L9061,Deo-Srivastava Pvt Ltd,Logistics,10-50,2025-10-26,55,Qualified,Said budget is tight this quarter.,500000.0,339.0,True
+L0242,"Setty, Reddy and Cherian",Retail,10-50,2026-07-23,55,New,"Met at conference, warm intro.",500000.0,69.0,False
+L0757,Mital Ltd,Retail,50-200,2025-10-05,55,Contacted,"Requested pricing sheet, no response since.",500000.0,360.0,True
+L0213,Chander Ltd,Healthcare,10-50,2025-11-25,55,New,"Met at conference, warm intro.",250000.0,309.0,True
+L0174,"Rana, Dhaliwal and Nayar",Manufacturing,10-50,2026-08-06,55,Contacted,"Requested pricing sheet, no response since.",50000.0,55.0,False
+L0156,"Pant, Kale and Murty",Logistics,50-200,2026-02-10,55,Contacted,"Requested pricing sheet, no response since.",500000.0,232.0,True
+L0749,"Dhar, Dubey and Singh",SaaS,2000-5000,2026-02-19,55,Qualified,Said budget is tight this quarter.,120000.0,223.0,True
+L0623,Deshmukh LLC,Healthcare,2000-5000,2026-01-04,55,Qualified,"Requested pricing sheet, no response since.",250000.0,269.0,True
+L0168,"Prasad, Wason and Jaggi",Retail,200-500,2026-08-04,55,Qualified,Currently evaluating competitors.,500000.0,57.0,False
+L0065,"Kari, Aggarwal and Borah",Logistics,2000-5000,2025-12-23,54,Contacted,"Requested pricing sheet, no response since.",500000.0,281.0,True
+L0157,Sharaf-Chander,Retail,200-500,2026-04-22,54,Contacted,,120000.0,161.0,False
+L0436,"Sama, Rajagopal and Patel",Manufacturing,10-50,2026-08-16,54,New,Said budget is tight this quarter.,500000.0,45.0,False
+L0462,"Garg, Nazareth and Nayak",Manufacturing,200-500,2026-03-21,54,Contacted,"Requested pricing sheet, no response since.",120000.0,193.0,True
+L9042,"Barad, Rama and Prakash Pvt Ltd",Logistics,50-200,2025-12-16,54,Qualified,Currently evaluating competitors.,50000.0,288.0,True
+L0550,"Pandya, Kari and Koshy",Manufacturing,200-500,,54,Qualified,,120000.0,,False
+L0519,Wali-Ratti,Logistics,200-500,2026-09-23,54,New,Said budget is tight this quarter.,0.0,7.0,False
+L0252,"Sachar, Jain and Gupta",Healthcare,200-500,2026-07-14,53,Qualified,Do not contact until Q3.,500000.0,78.0,False
+L0708,Arora-Ratti,SaaS,10-50,2026-04-25,53,Qualified,"Met at conference, warm intro.",500000.0,158.0,False
+L0273,Saxena LLC,Logistics,200-500,2025-10-05,53,New,Do not contact until Q3.,120000.0,360.0,True
+L0530,Rege and Sons,Logistics,50-200,2025-12-25,53,New,Said budget is tight this quarter.,0.0,279.0,True
+L0323,Sankaran LLC,Healthcare,200-500,2026-04-29,53,New,"Met at conference, warm intro.",0.0,154.0,False
+L0336,Talwar-Rege,Retail,200-500,2026-08-17,53,Contacted,"Met at conference, warm intro.",120000.0,44.0,False
+L0688,"Sastry, Shetty and Nanda",Logistics,50-200,2026-05-29,53,Contacted,Currently evaluating competitors.,250000.0,124.0,False
+L0082,Ramakrishnan-Mand,Manufacturing,10-50,2026-01-22,53,New,,500000.0,251.0,True
+L0730,Mander Inc,Retail,200-500,2026-08-16,52,Contacted,Do not contact until Q3.,500000.0,45.0,False
+L0113,Sathe Group,Retail,2000-5000,2026-08-13,52,New,"Requested pricing sheet, no response since.",50000.0,48.0,False
+L0629,Ghose-Balay,Logistics,200-500,2026-06-25,52,Qualified,"Interested in demo, follow up next week.",250000.0,97.0,False
+L0692,Pandya Ltd,Retail,200-500,2026-03-03,52,New,Said budget is tight this quarter.,250000.0,211.0,True
+L0126,Kara-Arora,SaaS,2000-5000,2025-12-14,52,Qualified,"Interested in demo, follow up next week.",120000.0,290.0,True
+L0515,"Chawla, Mane and Joshi",SaaS,50-200,2025-11-25,52,Qualified,Do not contact until Q3.,250000.0,309.0,True
+L0373,Divan PLC,SaaS,50-200,2025-11-18,52,New,"Interested in demo, follow up next week.",50000.0,316.0,True
+L0545,Maharaj-Chaudhuri,Manufacturing,50-200,2025-11-03,52,New,Said budget is tight this quarter.,0.0,331.0,True
+L0717,"Garg, Bhakta and Varma",Manufacturing,2000-5000,2026-01-04,52,Qualified,"Interested in demo, follow up next week.",50000.0,269.0,True
+L0290,Bhatia LLC,Manufacturing,500-2000,2026-07-15,52,New,Said budget is tight this quarter.,500000.0,77.0,False
+L0751,Vyas Ltd,SaaS,200-500,2026-08-25,51,Contacted,"Met at conference, warm intro.",500000.0,36.0,False
+L0095,Sahota Inc,Retail,10-50,,51,New,Said budget is tight this quarter.,50000.0,,False
+L0340,Modi-Hora,Healthcare,50-200,2025-11-11,51,New,"Requested pricing sheet, no response since.",500000.0,323.0,True
+L0476,"Bains, Banerjee and Dhawan",Healthcare,500-2000,2026-02-22,51,New,Currently evaluating competitors.,50000.0,220.0,True
+L0023,Chatterjee Group,SaaS,200-500,2025-10-21,51,New,"Interested in demo, follow up next week.",500000.0,344.0,True
+L0226,Wason-Seth,Retail,200-500,2025-09-27,50,Qualified,Do not contact until Q3.,500000.0,368.0,True
+L0457,Balasubramanian-Jaggi,Healthcare,2000-5000,2025-11-08,50,Contacted,"Met at conference, warm intro.",120000.0,326.0,True
+L0779,Dhawan PLC,Manufacturing,2000-5000,2026-02-05,50,Contacted,Currently evaluating competitors.,120000.0,237.0,True
+L0463,"Hayre, Dugar and Pall",Logistics,2000-5000,2025-12-04,50,Qualified,Currently evaluating competitors.,250000.0,300.0,True
+L0367,Sane-Kothari,SaaS,10-50,2025-11-13,50,Qualified,"Requested pricing sheet, no response since.",120000.0,321.0,True
+L0138,Bandi-Varty,Manufacturing,10-50,2026-09-22,50,Qualified,"Met at conference, warm intro.",0.0,8.0,False
+L0380,Oommen and Sons,Retail,10-50,2026-01-13,50,Qualified,"Requested pricing sheet, no response since.",500000.0,260.0,True
+L0601,"Gade, Balay and Natarajan",Logistics,200-500,2026-06-08,50,Contacted,Currently evaluating competitors.,0.0,114.0,False
+L0264,"Rastogi, Som and Bose",SaaS,10-50,2026-01-19,50,New,"Interested in demo, follow up next week.",250000.0,254.0,True
+L0315,"Narasimhan, Chadha and Gara",Logistics,2000-5000,2025-08-29,50,New,"Requested pricing sheet, no response since.",500000.0,397.0,True
+L0734,"Dixit, Chad and Dash",Retail,500-2000,2025-09-29,49,New,"Met at conference, warm intro.",0.0,366.0,True
+L0069,Rau PLC,SaaS,500-2000,2025-08-31,49,New,"Requested pricing sheet, no response since.",500000.0,395.0,True
+L0238,Buch PLC,Retail,200-500,2025-11-18,49,Contacted,Do not contact until Q3.,120000.0,316.0,True
+L0414,Buch-Kunda,Logistics,200-500,2026-05-14,49,Contacted,"Interested in demo, follow up next week.",120000.0,139.0,False
+L0741,Rajagopal-Dugal,Retail,10-50,,49,Contacted,Currently evaluating competitors.,500000.0,,False
+L0313,Dara Inc,SaaS,2000-5000,2025-10-18,49,Qualified,Do not contact until Q3.,120000.0,347.0,True
+L0377,Bandi-Mitter,SaaS,500-2000,2026-08-03,49,New,Currently evaluating competitors.,50000.0,58.0,False
+L0523,Singh-Shan,Retail,500-2000,2026-02-28,49,New,Currently evaluating competitors.,250000.0,214.0,True
+L0648,"Sathe, Sidhu and Raman",Retail,2000-5000,2026-06-24,49,Contacted,Currently evaluating competitors.,120000.0,98.0,False
+L0680,"Parsa, Kunda and Sur",SaaS,10-50,2025-12-05,48,New,Said budget is tight this quarter.,250000.0,299.0,True
+L0118,Seshadri Ltd,Logistics,2000-5000,2026-02-08,48,Contacted,Currently evaluating competitors.,120000.0,234.0,True
+L0257,"Sule, Balay and Choudhury",Logistics,2000-5000,2026-03-11,48,New,"Met at conference, warm intro.",120000.0,203.0,True
+L0316,Gour-Dugar,Manufacturing,2000-5000,2026-02-20,48,Qualified,"Interested in demo, follow up next week.",500000.0,222.0,True
+L0561,Nair-Seth,Logistics,50-200,2025-10-30,48,Contacted,Currently evaluating competitors.,50000.0,335.0,True
+L0139,Karan-Kaul,Manufacturing,2000-5000,2025-11-07,48,Contacted,Said budget is tight this quarter.,0.0,327.0,True
+L0325,Suresh-Basu,Manufacturing,2000-5000,2026-04-14,48,Contacted,"Met at conference, warm intro.",120000.0,169.0,False
+L0600,Nagy Group,Retail,500-2000,2025-11-16,47,New,"Requested pricing sheet, no response since.",250000.0,318.0,True
+L9005,"Hora, Dhillon and Kala Pvt Ltd",Retail,500-2000,2026-05-23,47,New,"Met at conference, warm intro.",50000.0,130.0,False
+L0659,Srivastava-Kari,Logistics,200-500,2026-03-02,47,New,Currently evaluating competitors.,250000.0,212.0,True
+L0045,Munshi and Sons,Logistics,10-50,2025-12-05,47,Contacted,"Met at conference, warm intro.",50000.0,299.0,True
+L0395,Chopra Group,SaaS,500-2000,2025-12-01,47,Qualified,,120000.0,303.0,True
+L0451,Dani Ltd,Healthcare,200-500,2026-09-19,47,Contacted,"Met at conference, warm intro.",250000.0,11.0,False
+L0422,Murty-Tank,Manufacturing,10-50,2025-10-04,47,Contacted,"Met at conference, warm intro.",50000.0,361.0,True
+L0280,Brar-Soni,SaaS,500-2000,2026-03-18,47,New,"Requested pricing sheet, no response since.",500000.0,196.0,True
+L0551,"Gade, Wason and Koshy",Healthcare,200-500,2026-07-23,46,Contacted,"Requested pricing sheet, no response since.",500000.0,69.0,False
+L0192,"Gupta, Magar and Varty",Retail,500-2000,2025-10-18,46,Qualified,Do not contact until Q3.,250000.0,347.0,True
+L0638,"Trivedi, Kata and Dube",Manufacturing,50-200,2026-09-03,46,Qualified,Said budget is tight this quarter.,50000.0,27.0,False
+L0184,"Luthra, Zacharia and Talwar",Logistics,50-200,2026-03-23,46,Qualified,,250000.0,191.0,True
+L0531,"Ghosh, Balay and Sankar",Manufacturing,200-500,2026-05-02,46,Qualified,Currently evaluating competitors.,500000.0,151.0,False
+L0564,Dhaliwal-Murty,SaaS,50-200,2025-11-25,46,Contacted,Said budget is tight this quarter.,0.0,309.0,True
+L0092,"Som, Atwal and Nori",Manufacturing,50-200,2026-06-30,46,New,"Met at conference, warm intro.",120000.0,92.0,False
+L0579,"Dayal, Dutta and Parmer",Healthcare,2000-5000,2025-11-20,46,Qualified,"Requested pricing sheet, no response since.",120000.0,314.0,True
+L0487,Loke Ltd,Logistics,50-200,2025-10-04,45,Qualified,Said budget is tight this quarter.,500000.0,361.0,True
+L0548,Talwar-Hegde,Healthcare,200-500,2026-07-26,45,New,Currently evaluating competitors.,250000.0,66.0,False
+L0470,Sidhu-Chopra,Retail,50-200,2026-06-07,45,Contacted,"Met at conference, warm intro.",250000.0,115.0,False
+L0176,Lad Group,SaaS,200-500,2025-09-22,44,New,Said budget is tight this quarter.,120000.0,373.0,True
+L0258,Bhakta and Sons,Manufacturing,10-50,2026-02-15,44,Qualified,Said budget is tight this quarter.,120000.0,227.0,True
+L0051,"Mandal, Rege and Sahota",Retail,200-500,2025-11-05,44,New,"Interested in demo, follow up next week.",250000.0,329.0,True
+L0354,Tata-Yogi,Healthcare,200-500,2026-08-16,44,Qualified,Said budget is tight this quarter.,120000.0,45.0,False
+L9022,Bains and Sons Pvt Ltd,Manufacturing,50-200,2026-08-25,44,Qualified,"Requested pricing sheet, no response since.",120000.0,36.0,False
+L0625,"Sandhu, Wagle and Ben",Logistics,50-200,2026-05-06,44,Contacted,"Requested pricing sheet, no response since.",0.0,147.0,False
+L0590,Bansal-Sem,Logistics,200-500,2026-05-11,44,Qualified,"Requested pricing sheet, no response since.",500000.0,142.0,False
+L0615,Shah LLC,Retail,50-200,2026-06-05,43,Qualified,Currently evaluating competitors.,250000.0,117.0,False
+L0793,Vasa LLC,Manufacturing,2000-5000,2026-08-19,43,New,,250000.0,42.0,False
+L0189,"Hayre, Gaba and Sekhon",SaaS,50-200,2025-09-02,43,New,Said budget is tight this quarter.,120000.0,393.0,True
+L0687,Karan-Mahal,SaaS,50-200,2026-03-12,43,Qualified,"Requested pricing sheet, no response since.",0.0,202.0,True
+L0116,Borra Group,Manufacturing,500-2000,2026-01-13,43,Contacted,,0.0,260.0,True
+L0232,"Kapur, Balasubramanian and Sibal",Logistics,2000-5000,,43,Qualified,"Interested in demo, follow up next week.",50000.0,,False
+L0024,Jayaraman-Baria,SaaS,10-50,2026-09-19,43,New,"Interested in demo, follow up next week.",120000.0,11.0,False
+L0740,Raja-Jhaveri,Manufacturing,2000-5000,2025-12-27,43,Qualified,"Requested pricing sheet, no response since.",0.0,277.0,True
+L0725,Sawhney PLC,SaaS,200-500,2025-10-20,43,New,,50000.0,345.0,True
+L0724,Dutta-Vyas,Retail,200-500,2026-03-11,43,New,Do not contact until Q3.,50000.0,203.0,True
+L0493,Setty-Bhatt,Retail,200-500,2026-06-28,43,Contacted,"Met at conference, warm intro.",500000.0,94.0,False
+L0292,"Sen, Dutt and Solanki",Manufacturing,50-200,,42,Qualified,"Interested in demo, follow up next week.",250000.0,,False
+L0735,Lala Ltd,Logistics,10-50,2026-02-02,42,Qualified,Do not contact until Q3.,0.0,240.0,True
+L0792,Kunda Ltd,Logistics,200-500,2025-10-15,42,New,,0.0,350.0,True
+L0175,Bahri-D’Alia,Manufacturing,50-200,2025-08-27,42,Qualified,Currently evaluating competitors.,50000.0,399.0,True
+L0270,Parsa-Tripathi,Healthcare,200-500,2026-04-28,42,Contacted,,250000.0,155.0,False
+L0506,Wali-Narasimhan,SaaS,500-2000,2025-12-17,42,Contacted,,250000.0,287.0,True
+L0186,Bala-Chanda,Logistics,50-200,2026-08-19,42,Contacted,"Met at conference, warm intro.",0.0,42.0,False
+L0108,Soni Ltd,Retail,50-200,2026-03-03,42,Qualified,Do not contact until Q3.,500000.0,211.0,True
+L9011,"Pandya, Goda and Garg Pvt Ltd",Manufacturing,10-50,2025-09-07,41,Qualified,,50000.0,388.0,True
+L0262,"Luthra, Sachar and Dhillon",SaaS,200-500,2026-05-06,41,Qualified,,50000.0,147.0,False
+L0056,"Jain, Mukherjee and Parmer",Manufacturing,500-2000,2026-03-07,41,Qualified,"Requested pricing sheet, no response since.",120000.0,207.0,True
+L0084,Ganesan and Sons,Logistics,200-500,2026-05-27,41,New,"Requested pricing sheet, no response since.",0.0,126.0,False
+L0391,Goel Group,Healthcare,50-200,2026-05-25,41,New,Do not contact until Q3.,250000.0,128.0,False
+L0247,Tiwari LLC,Logistics,50-200,2025-11-20,41,Contacted,Currently evaluating competitors.,250000.0,314.0,True
+L0603,Dyal Inc,Logistics,500-2000,,40,New,Currently evaluating competitors.,500000.0,,False
+L0287,Mutti Inc,SaaS,2000-5000,2025-12-08,40,Contacted,Said budget is tight this quarter.,250000.0,296.0,True
+L0683,Khanna-Srinivasan,Logistics,10-50,2026-01-24,40,Qualified,Said budget is tight this quarter.,120000.0,249.0,True
+L0123,Shukla-Venkataraman,Logistics,500-2000,2025-11-13,40,New,Currently evaluating competitors.,50000.0,321.0,True
+L0227,"Raju, Kapadia and Modi",Retail,50-200,,40,Qualified,Said budget is tight this quarter.,250000.0,,False
+L0237,Nath Ltd,Logistics,10-50,2026-05-29,40,New,Said budget is tight this quarter.,120000.0,124.0,False
+L0256,"Char, Wali and Nayar",SaaS,500-2000,2026-01-27,40,New,"Met at conference, warm intro.",250000.0,246.0,True
+L0539,"Bakshi, Krishnan and Mangat",Healthcare,500-2000,2026-09-21,40,Qualified,"Interested in demo, follow up next week.",0.0,9.0,False
+L0079,Saraf-Kuruvilla,Logistics,10-50,2025-12-09,39,New,,500000.0,295.0,True
+L0668,Naik PLC,Healthcare,10-50,,39,Qualified,"Met at conference, warm intro.",120000.0,,False
+L0090,Choudhary-Ramesh,Healthcare,200-500,2026-05-24,39,Qualified,"Interested in demo, follow up next week.",250000.0,129.0,False
+L0050,Gola LLC,Healthcare,200-500,2026-06-05,39,Contacted,"Met at conference, warm intro.",500000.0,117.0,False
+L0403,Thaman-Hari,SaaS,500-2000,2026-02-04,39,Qualified,Said budget is tight this quarter.,0.0,238.0,True
+L0662,"Pandit, Bali and Sarkar",Manufacturing,10-50,2026-06-08,38,Qualified,Currently evaluating competitors.,250000.0,114.0,False
+L0713,Pandit-Gulati,Logistics,2000-5000,2026-04-13,38,New,"Requested pricing sheet, no response since.",0.0,170.0,False
+L0731,Viswanathan LLC,SaaS,2000-5000,2026-07-02,38,Contacted,"Interested in demo, follow up next week.",120000.0,90.0,False
+L0727,Barman-Chauhan,Retail,2000-5000,2025-12-14,38,Qualified,Said budget is tight this quarter.,50000.0,290.0,True
+L0329,"Deshmukh, Dass and Chokshi",SaaS,500-2000,,37,Contacted,,500000.0,,False
+L0490,Wason Group,SaaS,500-2000,2026-05-17,37,New,Said budget is tight this quarter.,0.0,136.0,False
+L0093,Sani Ltd,Retail,2000-5000,2025-10-07,37,New,"Interested in demo, follow up next week.",500000.0,358.0,True
+L0469,Gulati-Sundaram,Logistics,50-200,2026-08-11,37,Contacted,,120000.0,50.0,False
+L0017,"Dutta, Bahri and Patla",Manufacturing,10-50,2026-02-19,37,Qualified,,0.0,223.0,True
+L0299,"Mallick, Venkatesh and Sheth",Logistics,500-2000,2026-07-13,37,Qualified,"Requested pricing sheet, no response since.",120000.0,79.0,False
+L0644,"Chaudry, Bhat and Bandi",Healthcare,2000-5000,2025-12-26,37,Contacted,Currently evaluating competitors.,120000.0,278.0,True
+L0431,Ghosh Inc,Retail,10-50,2026-09-19,37,New,"Met at conference, warm intro.",50000.0,11.0,False
+L0100,Krish-Devan,Logistics,500-2000,2026-09-13,37,Qualified,"Interested in demo, follow up next week.",500000.0,17.0,False
+L0784,Bassi PLC,SaaS,200-500,2026-02-02,37,Contacted,"Requested pricing sheet, no response since.",0.0,240.0,True
+L0131,Kibe PLC,Manufacturing,2000-5000,2025-10-06,37,New,"Met at conference, warm intro.",500000.0,359.0,True
+L0486,"Rajan, Sen and Kakar",Logistics,10-50,2026-08-02,36,Contacted,Do not contact until Q3.,120000.0,59.0,False
+L0241,Karan LLC,Retail,10-50,2026-01-19,36,Qualified,"Met at conference, warm intro.",500000.0,254.0,True
+L0160,Lata-Suresh,Healthcare,10-50,2025-11-26,36,New,Currently evaluating competitors.,0.0,308.0,True
+L0464,"Chhabra, Patla and Wagle",Logistics,2000-5000,2026-04-30,36,Qualified,"Met at conference, warm intro.",250000.0,153.0,False
+L0148,Banik-Karpe,Logistics,10-50,2026-07-17,35,Qualified,"Interested in demo, follow up next week.",120000.0,75.0,False
+L0645,Bansal-Swaminathan,Manufacturing,500-2000,2025-11-27,35,New,Currently evaluating competitors.,50000.0,307.0,True
+L0351,Chaudhry LLC,Manufacturing,10-50,2026-06-06,35,Qualified,Currently evaluating competitors.,500000.0,116.0,False
+L0043,Ramakrishnan Inc,Retail,500-2000,,35,Qualified,Said budget is tight this quarter.,250000.0,,False
+L0255,Venkatesh Ltd,SaaS,50-200,2025-12-18,35,Contacted,Do not contact until Q3.,250000.0,286.0,True
+L0412,"Dhawan, Varughese and Tandon",Retail,10-50,2026-03-17,35,Qualified,,120000.0,197.0,True
+L0244,Bajaj-Ratti,Healthcare,2000-5000,2025-11-14,35,Contacted,"Interested in demo, follow up next week.",0.0,320.0,True
+L0654,Soni-Dar,Retail,2000-5000,,34,New,"Met at conference, warm intro.",0.0,,False
+L0293,Arya-Loke,SaaS,10-50,2026-03-20,34,Qualified,Said budget is tight this quarter.,50000.0,194.0,True
+L0739,"Sodhi, Krishnamurthy and Ben",Logistics,200-500,2026-07-19,34,New,Said budget is tight this quarter.,120000.0,73.0,False
+L0763,Mishra LLC,SaaS,2000-5000,2026-03-03,34,Qualified,"Interested in demo, follow up next week.",50000.0,211.0,True
+L0460,Keer Ltd,SaaS,50-200,2025-10-31,34,Qualified,Do not contact until Q3.,0.0,334.0,True
+L0520,"Mangal, Ramesh and Mahajan",Retail,50-200,2025-09-10,34,New,Said budget is tight this quarter.,250000.0,385.0,True
+L0067,"Shankar, Ravel and Yogi",Manufacturing,50-200,2026-04-11,34,New,Said budget is tight this quarter.,120000.0,172.0,False
+L0363,Shah-Kohli,SaaS,500-2000,2026-04-17,34,Contacted,Currently evaluating competitors.,120000.0,166.0,False
+L9029,Pathak-Tripathi Pvt Ltd,Retail,50-200,2026-06-29,33,Qualified,,50000.0,93.0,False
+L0032,Shan Ltd,Retail,500-2000,2026-02-09,33,New,Said budget is tight this quarter.,500000.0,233.0,True
+L0776,Edwin Inc,Healthcare,500-2000,2026-07-17,33,Contacted,Do not contact until Q3.,250000.0,75.0,False
+L0772,Rao Group,Manufacturing,50-200,2025-08-25,33,New,"Met at conference, warm intro.",50000.0,401.0,True
+L0646,"Mohanty, Agarwal and Gandhi",Healthcare,200-500,2025-12-26,33,Qualified,,0.0,278.0,True
+L0445,"Korpal, Wali and Chakrabarti",SaaS,2000-5000,2026-04-19,33,Contacted,"Interested in demo, follow up next week.",50000.0,164.0,False
+L0467,Sundaram-Sampath,Healthcare,200-500,2026-02-27,33,Qualified,"Met at conference, warm intro.",120000.0,215.0,True
+L0037,Jha-Kade,Manufacturing,50-200,2026-03-11,33,New,"Met at conference, warm intro.",500000.0,203.0,True
+L0465,Buch-Srinivasan,Manufacturing,200-500,2025-10-29,33,New,Said budget is tight this quarter.,250000.0,336.0,True
+L0786,Karpe-Gade,Manufacturing,10-50,2026-05-17,33,Qualified,Said budget is tight this quarter.,0.0,136.0,False
+L0527,Karan Group,Manufacturing,2000-5000,2026-07-25,33,Contacted,"Met at conference, warm intro.",50000.0,67.0,False
+L0343,"Solanki, Rai and Mohanty",Healthcare,10-50,2025-10-21,33,Contacted,Currently evaluating competitors.,250000.0,344.0,True
+L0136,"Borde, Agate and Shan",Manufacturing,50-200,2026-01-26,32,New,Do not contact until Q3.,250000.0,247.0,True
+L9027,Goda-Rai Pvt Ltd,Healthcare,200-500,2026-07-09,32,Contacted,"Requested pricing sheet, no response since.",50000.0,83.0,False
+L0611,Nair-Reddy,Logistics,2000-5000,,32,Qualified,Do not contact until Q3.,0.0,,False
+L0128,Nagarajan-Varkey,Manufacturing,500-2000,,32,Qualified,,250000.0,,False
+L0195,Anand Ltd,Logistics,50-200,2026-09-03,32,Qualified,,50000.0,27.0,False
+L0105,"Pandya, Kalita and Chakrabarti",Manufacturing,2000-5000,,32,Qualified,Do not contact until Q3.,50000.0,,False
+L0230,Kade-Dutt,Manufacturing,10-50,2026-06-21,32,Contacted,,120000.0,101.0,False
+L0723,Maharaj and Sons,SaaS,200-500,2026-08-26,32,New,Do not contact until Q3.,250000.0,35.0,False
+L0664,"Salvi, Bawa and Mangat",Manufacturing,2000-5000,2026-06-02,31,New,Currently evaluating competitors.,500000.0,120.0,False
+L0295,"Shankar, Chopra and Batra",Retail,500-2000,2025-10-08,31,Contacted,Currently evaluating competitors.,120000.0,357.0,True
+L9034,Krishna-Kaur Pvt Ltd,Healthcare,200-500,,30,Qualified,"Interested in demo, follow up next week.",0.0,,False
+L0099,"Butala, Babu and Bajaj",Retail,50-200,2026-07-03,30,Qualified,"Requested pricing sheet, no response since.",500000.0,89.0,False
+L0204,Thaker-Ramakrishnan,Logistics,200-500,2025-12-11,30,Contacted,Currently evaluating competitors.,50000.0,293.0,True
+L0330,Bath LLC,SaaS,200-500,2026-05-23,30,Contacted,"Interested in demo, follow up next week.",500000.0,130.0,False
+L9026,Sharma Inc Pvt Ltd,Logistics,10-50,2025-09-15,29,New,Do not contact until Q3.,0.0,380.0,True
+L0124,"Char, Gulati and Bhatti",SaaS,200-500,,29,New,"Requested pricing sheet, no response since.",50000.0,,False
+L0169,Wason PLC,Manufacturing,10-50,2026-03-11,28,Contacted,Said budget is tight this quarter.,0.0,203.0,True
+L0161,Comar Group,SaaS,500-2000,2026-08-05,28,Contacted,Do not contact until Q3.,50000.0,56.0,False
+L0071,"Amble, Saha and Krishnan",Logistics,2000-5000,2026-01-23,28,Contacted,"Requested pricing sheet, no response since.",50000.0,250.0,True
+L0697,Sampath-Sodhi,Manufacturing,500-2000,2025-09-14,28,New,"Interested in demo, follow up next week.",120000.0,381.0,True
+L0133,Savant Ltd,Logistics,200-500,2025-11-08,28,New,,120000.0,326.0,True
+L0288,"Pai, Bains and Mani",SaaS,2000-5000,2026-03-02,28,Qualified,Currently evaluating competitors.,0.0,212.0,True
+L0444,"More, Nayar and Karnik",SaaS,50-200,2026-06-23,27,Qualified,Said budget is tight this quarter.,500000.0,99.0,False
+L0165,Golla-Mohanty,Retail,2000-5000,2026-03-21,27,Qualified,"Met at conference, warm intro.",250000.0,193.0,True
+L0758,"Kata, Madan and Bhatti",Healthcare,2000-5000,2025-10-25,27,Contacted,Currently evaluating competitors.,0.0,340.0,True
+L0286,Pandey and Sons,SaaS,2000-5000,2025-09-08,27,Contacted,Currently evaluating competitors.,0.0,387.0,True
+L0481,"Gokhale, Kapoor and Sandal",SaaS,50-200,,27,Qualified,"Met at conference, warm intro.",50000.0,,False
+L9035,Chaudry-Narasimhan Pvt Ltd,Retail,10-50,2026-07-20,27,New,Do not contact until Q3.,50000.0,72.0,False
+L0568,Vyas-Sibal,Manufacturing,10-50,2026-02-12,27,New,Said budget is tight this quarter.,500000.0,230.0,True
+L0660,Kapur Group,Logistics,2000-5000,2026-03-21,27,Contacted,"Met at conference, warm intro.",250000.0,193.0,True
+L0303,Bala-Sahota,SaaS,10-50,2026-01-14,27,Qualified,,0.0,259.0,True
+L0353,Oak PLC,Healthcare,2000-5000,2026-02-24,27,New,"Met at conference, warm intro.",120000.0,218.0,True
+L0086,"Dugar, Agarwal and Bhattacharyya",SaaS,500-2000,2026-04-01,27,New,Currently evaluating competitors.,250000.0,182.0,True
+L0598,"Parekh, Basak and Doctor",SaaS,200-500,2026-06-04,26,New,Said budget is tight this quarter.,250000.0,118.0,False
+L0774,Dass-Guha,Healthcare,50-200,2025-12-08,26,New,Do not contact until Q3.,250000.0,296.0,True
+L0046,Chana Inc,Retail,200-500,2025-10-15,26,Qualified,Do not contact until Q3.,0.0,350.0,True
+L0679,Grewal and Sons,Logistics,50-200,2025-12-24,26,Qualified,Currently evaluating competitors.,500000.0,280.0,True
+L0434,Chaudhari Group,Retail,200-500,2026-06-24,26,Contacted,,250000.0,98.0,False
+L0652,Narula Ltd,Retail,10-50,2025-10-29,26,Qualified,"Requested pricing sheet, no response since.",50000.0,336.0,True
+L0586,"Balay, Sandhu and Pau",Healthcare,10-50,2025-10-28,25,Qualified,"Interested in demo, follow up next week.",120000.0,337.0,True
+L0553,Rama Ltd,SaaS,2000-5000,2026-05-18,25,Qualified,"Interested in demo, follow up next week.",50000.0,135.0,False
+L0019,Singhal-Savant,Logistics,2000-5000,2026-07-13,25,Contacted,Currently evaluating competitors.,50000.0,79.0,False
+L0130,Bakshi-Prashad,Healthcare,200-500,2026-03-17,25,Qualified,"Requested pricing sheet, no response since.",0.0,197.0,True
+L0650,Narula Group,SaaS,10-50,2026-08-06,25,Qualified,Currently evaluating competitors.,0.0,55.0,False
+L0177,"Sachar, Choudhary and Andra",SaaS,200-500,2026-07-03,25,Qualified,Said budget is tight this quarter.,50000.0,89.0,False
+L0209,Mistry-Kaul,Retail,200-500,2026-09-07,25,Qualified,"Met at conference, warm intro.",250000.0,23.0,False
+L0742,Prakash-Prabhu,Manufacturing,200-500,2025-09-29,25,Contacted,Do not contact until Q3.,50000.0,366.0,True
+L0524,"Gokhale, Varkey and Bhakta",Retail,200-500,2025-11-16,25,New,Do not contact until Q3.,500000.0,318.0,True
+L0701,Raval-Boase,Logistics,10-50,2026-05-03,24,New,"Requested pricing sheet, no response since.",250000.0,150.0,False
+L0509,"Mani, Bhandari and Kapadia",Logistics,50-200,2026-07-30,24,New,Do not contact until Q3.,500000.0,62.0,False
+L0239,"Pal, Sidhu and Chopra",Logistics,200-500,2025-09-04,24,Contacted,"Requested pricing sheet, no response since.",500000.0,391.0,True
+L0091,Char Inc,Logistics,50-200,2026-06-11,24,New,"Interested in demo, follow up next week.",250000.0,111.0,False
+L0546,Pai Inc,Logistics,200-500,2026-08-02,24,Qualified,Do not contact until Q3.,50000.0,59.0,False
+L0439,"Bahri, Shenoy and Butala",Healthcare,200-500,,23,Contacted,Said budget is tight this quarter.,250000.0,,False
+L9018,Kade-Mand Pvt Ltd,Manufacturing,200-500,2026-01-17,23,Contacted,"Met at conference, warm intro.",250000.0,256.0,True
+L0163,Chandra Inc,Manufacturing,10-50,2026-05-13,23,New,"Met at conference, warm intro.",250000.0,140.0,False
+L0693,"Lata, Brar and Bhatnagar",Retail,50-200,2026-09-16,23,Qualified,Currently evaluating competitors.,250000.0,14.0,False
+L0606,Rai PLC,Manufacturing,500-2000,2025-12-11,23,New,Do not contact until Q3.,120000.0,293.0,True
+L0526,Vasa-Sehgal,SaaS,10-50,2026-07-03,23,Contacted,"Interested in demo, follow up next week.",0.0,89.0,False
+L0048,"Dhawan, Merchant and Chaudry",Healthcare,10-50,2025-09-17,22,Qualified,Do not contact until Q3.,500000.0,378.0,True
+L0135,Desai-Vasa,Manufacturing,500-2000,2026-06-19,22,Qualified,Currently evaluating competitors.,250000.0,103.0,False
+L0580,Saraf Ltd,Logistics,500-2000,2026-03-24,22,Contacted,Currently evaluating competitors.,250000.0,190.0,True
+L0591,Reddy-Chatterjee,Retail,200-500,2026-03-05,22,New,"Met at conference, warm intro.",250000.0,209.0,True
+L0410,"Purohit, Khanna and Ben",Healthcare,500-2000,2026-04-01,22,New,"Requested pricing sheet, no response since.",250000.0,182.0,True
+L0222,Chauhan LLC,Retail,500-2000,2025-09-29,22,Contacted,,0.0,366.0,True
+L0458,"Rana, Ranganathan and Pandya",Logistics,500-2000,2026-01-30,22,Contacted,Do not contact until Q3.,120000.0,243.0,True
+L0800,Nadkarni-More,SaaS,10-50,,22,Qualified,"Requested pricing sheet, no response since.",50000.0,,False
+L0417,Rajagopal and Sons,Manufacturing,50-200,2026-05-31,22,New,Currently evaluating competitors.,250000.0,122.0,False
+L0425,Rajagopal Group,Manufacturing,50-200,,22,Qualified,Do not contact until Q3.,500000.0,,False
+L0022,Venkataraman-Mahal,Healthcare,2000-5000,2026-05-17,21,Qualified,Currently evaluating competitors.,120000.0,136.0,False
+L0614,Ray PLC,Healthcare,50-200,2025-11-06,21,New,Do not contact until Q3.,500000.0,328.0,True
+L0535,Rao LLC,Retail,10-50,2025-08-30,21,New,"Interested in demo, follow up next week.",0.0,396.0,True
+L0322,Date-Divan,SaaS,500-2000,2026-07-20,21,New,"Interested in demo, follow up next week.",120000.0,72.0,False
+L0437,"Guha, Mangal and Kannan",Retail,50-200,2025-11-07,21,New,Do not contact until Q3.,0.0,327.0,True
+L0235,Palan Inc,Retail,10-50,2026-02-16,20,New,Currently evaluating competitors.,250000.0,226.0,True
+L0423,"Pandit, Ramachandran and Narain",Manufacturing,50-200,2025-09-20,20,Contacted,,500000.0,375.0,True
+L0637,Thaman Group,Manufacturing,200-500,2025-11-11,20,Contacted,"Met at conference, warm intro.",50000.0,323.0,True
+L0049,Wagle-Baral,SaaS,200-500,2025-10-05,20,New,Said budget is tight this quarter.,500000.0,360.0,True
+L0528,"Murthy, Savant and Barad",SaaS,10-50,2026-04-17,19,Qualified,"Requested pricing sheet, no response since.",250000.0,166.0,False
+L0440,Yohannan-Bhandari,Logistics,10-50,2025-09-09,19,Contacted,,0.0,386.0,True
+L0382,Gaba-Divan,Logistics,50-200,2025-12-29,19,Qualified,"Met at conference, warm intro.",50000.0,275.0,True
+L0773,Gola-Shetty,SaaS,2000-5000,2026-01-19,19,Qualified,Said budget is tight this quarter.,500000.0,254.0,True
+L0759,"Menon, Buch and Dash",Manufacturing,500-2000,2026-05-05,19,New,"Interested in demo, follow up next week.",120000.0,148.0,False
+L0569,"Sachar, Bath and Murty",Healthcare,2000-5000,2025-12-05,18,Qualified,Said budget is tight this quarter.,250000.0,299.0,True
+L0583,Chada-Deo,Retail,10-50,2026-01-31,18,New,"Met at conference, warm intro.",50000.0,242.0,True
+L0137,"Bhatt, Manda and Khare",Healthcare,10-50,2025-09-08,18,Qualified,Do not contact until Q3.,500000.0,387.0,True
+L0115,Mani-Sarraf,Healthcare,2000-5000,2026-03-17,18,New,Do not contact until Q3.,120000.0,197.0,True
+L0251,Sood PLC,Logistics,500-2000,2025-10-16,18,New,Said budget is tight this quarter.,50000.0,349.0,True
+L0733,Grover-Sarma,Manufacturing,200-500,2025-09-01,18,Qualified,Said budget is tight this quarter.,120000.0,394.0,True
+L0421,"Hayre, Savant and Shetty",Retail,10-50,2025-12-03,18,Qualified,"Interested in demo, follow up next week.",0.0,301.0,True
+L0427,Hari LLC,Retail,500-2000,2026-04-13,18,Qualified,Said budget is tight this quarter.,250000.0,170.0,False
+L0452,"Roy, Malhotra and Natarajan",Retail,50-200,2026-04-29,17,Qualified,"Met at conference, warm intro.",250000.0,154.0,False
+L0199,Sheth-Yadav,Manufacturing,50-200,2026-09-10,17,Qualified,Do not contact until Q3.,120000.0,20.0,False
+L0349,"Goyal, Bumb and Guha",Retail,500-2000,2026-06-22,17,Qualified,"Requested pricing sheet, no response since.",500000.0,100.0,False
+L0014,Kara PLC,Manufacturing,50-200,2026-01-12,17,Qualified,Said budget is tight this quarter.,50000.0,261.0,True
+L0246,Deol Ltd,Retail,10-50,2025-09-29,17,Qualified,Said budget is tight this quarter.,500000.0,366.0,True
+L0348,Amble and Sons,Healthcare,200-500,2026-06-26,17,Contacted,Do not contact until Q3.,50000.0,96.0,False
+L0690,"Kumer, Atwal and Tandon",Manufacturing,2000-5000,2026-02-21,17,Qualified,,120000.0,221.0,True
+L0269,Wali-Raja,Retail,50-200,2026-01-28,17,New,"Requested pricing sheet, no response since.",250000.0,245.0,True
+L0371,Madan-Krishna,Manufacturing,200-500,2026-03-18,17,Qualified,,120000.0,196.0,True
+L0266,"Agate, Chadha and Dass",Logistics,500-2000,2026-01-14,17,New,"Met at conference, warm intro.",50000.0,259.0,True
+L0301,Sehgal Ltd,Manufacturing,50-200,2025-09-26,17,New,Currently evaluating competitors.,50000.0,369.0,True
+L0378,"Mand, Bhatt and Trivedi",Manufacturing,200-500,2026-03-15,16,Qualified,Currently evaluating competitors.,250000.0,199.0,True
+L0709,Nanda and Sons,SaaS,10-50,,16,Contacted,"Requested pricing sheet, no response since.",50000.0,,False
+L0617,Dixit PLC,SaaS,10-50,2025-09-22,16,New,Said budget is tight this quarter.,50000.0,373.0,True
+L0150,Prashad-Gaba,Manufacturing,10-50,2025-09-15,16,Contacted,"Interested in demo, follow up next week.",0.0,380.0,True
+L0407,Salvi Inc,Retail,50-200,2026-06-20,16,Qualified,Currently evaluating competitors.,50000.0,102.0,False
+L0689,"Pandya, Divan and Khalsa",Healthcare,2000-5000,2026-06-16,16,New,Do not contact until Q3.,120000.0,106.0,False
+L0171,Mall PLC,Healthcare,50-200,2026-03-19,16,Contacted,"Interested in demo, follow up next week.",250000.0,195.0,True
+L0461,Walla-Sule,Retail,500-2000,2025-11-02,16,Qualified,"Met at conference, warm intro.",120000.0,332.0,True
+L0721,Issac PLC,SaaS,10-50,2026-09-17,15,Qualified,Do not contact until Q3.,120000.0,13.0,False
+L9031,Lal-Anne Pvt Ltd,Manufacturing,200-500,2026-03-25,15,Contacted,"Requested pricing sheet, no response since.",500000.0,189.0,True
+L0544,"Munshi, Mann and Samra",Logistics,50-200,,15,New,"Met at conference, warm intro.",50000.0,,False
+L0764,Dube PLC,Healthcare,200-500,2025-12-06,14,Qualified,,120000.0,298.0,True
+L0141,"Pai, Brahmbhatt and Rana",Manufacturing,500-2000,,14,New,"Requested pricing sheet, no response since.",0.0,,False
+L0041,Vora Inc,SaaS,200-500,2026-08-06,14,New,Currently evaluating competitors.,250000.0,55.0,False
+L0020,Sidhu-Nori,Healthcare,10-50,2026-03-28,14,New,Said budget is tight this quarter.,250000.0,186.0,True
+L0533,Dani and Sons,Manufacturing,500-2000,2026-03-16,14,Contacted,Currently evaluating competitors.,50000.0,198.0,True
+L0173,Sinha-Sampath,Healthcare,200-500,,14,Qualified,Do not contact until Q3.,500000.0,,False
+L0578,Biswas and Sons,Healthcare,200-500,2026-07-12,13,Qualified,Do not contact until Q3.,250000.0,80.0,False
+L0619,Bahl-Keer,Logistics,10-50,2026-05-18,13,Contacted,"Requested pricing sheet, no response since.",0.0,135.0,False
+L0536,Ramachandran PLC,SaaS,500-2000,2026-06-16,13,New,,500000.0,106.0,False
+L0682,Dar-Wali,Manufacturing,200-500,2026-09-20,13,Contacted,Said budget is tight this quarter.,500000.0,10.0,False
+L0005,Atwal-Mandal,SaaS,200-500,2026-08-13,13,Contacted,Currently evaluating competitors.,250000.0,48.0,False
+L0642,"Dani, Ram and Prashad",SaaS,2000-5000,2026-07-27,13,Contacted,Do not contact until Q3.,250000.0,65.0,False
+L0448,Barad and Sons,Logistics,10-50,2025-12-15,13,Contacted,"Requested pricing sheet, no response since.",250000.0,289.0,True
+L0513,Vora Group,SaaS,50-200,2026-03-15,13,Contacted,Currently evaluating competitors.,250000.0,199.0,True
+L0318,Kapadia-Nazareth,Manufacturing,200-500,,13,Contacted,Do not contact until Q3.,250000.0,,False
+L0397,Dar-Acharya,Healthcare,200-500,2026-06-16,13,New,"Interested in demo, follow up next week.",500000.0,106.0,False
+L0402,Chowdhury-Samra,Retail,50-200,2026-07-07,13,Contacted,Currently evaluating competitors.,50000.0,85.0,False
+L0027,"Chopra, Sandhu and Shetty",Healthcare,50-200,2026-08-11,12,Qualified,"Requested pricing sheet, no response since.",500000.0,50.0,False
+L0030,Barad-Modi,Healthcare,2000-5000,2026-09-04,12,New,"Interested in demo, follow up next week.",50000.0,26.0,False
+L0310,"Guha, Chokshi and Sheth",Manufacturing,2000-5000,2026-01-02,12,New,"Met at conference, warm intro.",500000.0,271.0,True
+L0008,Barman LLC,Retail,50-200,2026-03-19,12,Contacted,Said budget is tight this quarter.,250000.0,195.0,True
+L9006,"Trivedi, Kamdar and Bobal Pvt Ltd",Healthcare,10-50,2026-08-28,12,Contacted,"Interested in demo, follow up next week.",50000.0,33.0,False
+L0399,Borde-Lalla,Retail,2000-5000,2026-01-14,12,Qualified,Currently evaluating competitors.,50000.0,259.0,True
+L0655,Sabharwal PLC,SaaS,2000-5000,2026-08-09,12,Qualified,Said budget is tight this quarter.,120000.0,52.0,False
+L0435,Dalal and Sons,Manufacturing,50-200,2026-09-04,12,New,Said budget is tight this quarter.,500000.0,26.0,False
+L9056,"Wali, Raja and Kaur Pvt Ltd",Retail,50-200,,11,Contacted,"Met at conference, warm intro.",500000.0,,False
+L0060,Chatterjee-Nori,Logistics,200-500,2025-09-10,11,New,Said budget is tight this quarter.,120000.0,385.0,True
+L0588,Seth Group,Retail,50-200,2026-05-11,11,Qualified,"Requested pricing sheet, no response since.",500000.0,142.0,False
+L0783,"Handa, Gera and Dara",Retail,10-50,2025-11-24,11,Qualified,"Interested in demo, follow up next week.",120000.0,310.0,True
+L0782,Atwal Inc,Retail,2000-5000,2026-08-31,11,Qualified,Currently evaluating competitors.,120000.0,30.0,False
+L0489,Bhakta Inc,Healthcare,50-200,2025-08-26,11,Qualified,"Met at conference, warm intro.",50000.0,400.0,True
+L0188,Mann-Sami,SaaS,2000-5000,2025-11-03,11,Contacted,"Met at conference, warm intro.",50000.0,331.0,True
+L0670,"Cherian, Sampath and Kibe",Logistics,2000-5000,2026-06-08,11,Contacted,Said budget is tight this quarter.,120000.0,114.0,False
+L0231,Varma-Din,Logistics,2000-5000,2026-01-15,11,Qualified,Said budget is tight this quarter.,120000.0,258.0,True
+L0240,"Radhakrishnan, Lall and Swaminathan",Healthcare,10-50,2026-03-12,11,Contacted,Currently evaluating competitors.,120000.0,202.0,True
+L0674,"Sandhu, Mishra and Dar",Manufacturing,2000-5000,2026-08-03,11,Contacted,Said budget is tight this quarter.,250000.0,58.0,False
+L0366,"Patil, Walla and Prakash",SaaS,200-500,2025-10-29,11,Qualified,,0.0,336.0,True
+L0743,"Narang, Bava and Kalla",Logistics,50-200,2025-10-07,11,New,"Requested pricing sheet, no response since.",500000.0,358.0,True
+L0319,Shenoy PLC,Retail,50-200,2026-06-26,11,New,"Interested in demo, follow up next week.",500000.0,96.0,False
+L9062,Narain-Mukhopadhyay Pvt Ltd,SaaS,500-2000,2026-03-22,10,Qualified,Do not contact until Q3.,50000.0,192.0,True
+L0096,"Ray, Sachdeva and Venkatesh",Logistics,200-500,2026-05-25,10,Qualified,Do not contact until Q3.,120000.0,128.0,False
+L0087,Kamdar-Modi,Logistics,50-200,2026-05-29,10,Contacted,,120000.0,124.0,False
+L0628,Subramaniam-Batta,SaaS,200-500,2026-02-25,10,Qualified,"Met at conference, warm intro.",250000.0,217.0,True
+L0576,Mane LLC,Healthcare,50-200,2026-05-07,10,New,Said budget is tight this quarter.,250000.0,146.0,False
+L0158,Bahl Inc,Retail,10-50,2026-08-13,10,New,Do not contact until Q3.,250000.0,48.0,False
+L0307,Suresh PLC,Manufacturing,500-2000,2026-03-22,10,New,,120000.0,192.0,True
+L0021,Gade-Kohli,SaaS,2000-5000,2026-08-17,10,Qualified,Said budget is tight this quarter.,120000.0,44.0,False
+L0795,Balasubramanian-Pingle,Manufacturing,500-2000,2025-11-10,10,New,Said budget is tight this quarter.,50000.0,324.0,True
+L0196,Wali-Chhabra,Retail,200-500,2025-09-04,10,Contacted,Do not contact until Q3.,120000.0,391.0,True
+L0538,Cherian and Sons,Manufacturing,2000-5000,2025-12-09,9,Contacted,"Requested pricing sheet, no response since.",500000.0,295.0,True
+L0180,Jha and Sons,Manufacturing,2000-5000,2026-04-24,9,Contacted,"Met at conference, warm intro.",0.0,159.0,False
+L0547,Kamdar-Mani,Healthcare,2000-5000,2026-05-04,9,Qualified,,120000.0,149.0,False
+L0596,Patel-Rege,Healthcare,200-500,2025-12-20,9,Qualified,Said budget is tight this quarter.,250000.0,284.0,True
+L0529,"Krishna, Chada and Mani",Logistics,200-500,2025-10-02,9,New,Currently evaluating competitors.,120000.0,363.0,True
+L0370,Nagy-Natt,SaaS,500-2000,2026-06-04,9,Contacted,"Interested in demo, follow up next week.",50000.0,118.0,False
+L0691,"Solanki, Mammen and Bera",SaaS,200-500,2025-12-18,8,New,"Met at conference, warm intro.",120000.0,286.0,True
+L0716,Tiwari and Sons,Healthcare,2000-5000,2026-05-03,8,Contacted,Do not contact until Q3.,0.0,150.0,False
+L0338,"Hari, Gara and Savant",Healthcare,200-500,,8,Contacted,Do not contact until Q3.,50000.0,,False
+L0185,Murty Inc,Retail,200-500,,8,Qualified,"Met at conference, warm intro.",250000.0,,False
+L0479,Gara Inc,Manufacturing,50-200,2026-09-06,8,Qualified,"Requested pricing sheet, no response since.",250000.0,24.0,False
+L0728,"Kaur, Keer and Chadha",Manufacturing,200-500,2026-07-15,8,Qualified,"Requested pricing sheet, no response since.",0.0,77.0,False
+L0154,Mall LLC,Logistics,50-200,2026-07-27,8,Qualified,"Requested pricing sheet, no response since.",250000.0,65.0,False
+L9017,Oak LLC Pvt Ltd,Retail,50-200,2026-09-13,8,Contacted,Said budget is tight this quarter.,0.0,17.0,False
+L0393,"Rege, Dora and Srinivasan",Retail,500-2000,2026-02-03,8,New,"Met at conference, warm intro.",250000.0,239.0,True
+L0387,"Mander, Narayan and Khalsa",Manufacturing,2000-5000,2026-05-18,8,Contacted,"Requested pricing sheet, no response since.",50000.0,135.0,False
+L0388,Murthy PLC,Logistics,200-500,2026-01-17,7,New,"Met at conference, warm intro.",120000.0,256.0,True
+L0383,Chhabra-Gera,Healthcare,50-200,,7,Qualified,Currently evaluating competitors.,500000.0,,False
+L0454,Mannan-Sharaf,Logistics,200-500,2026-01-09,7,Qualified,,0.0,264.0,True
+L0028,"Atwal, Roy and Brar",Retail,10-50,2026-03-07,7,New,Said budget is tight this quarter.,50000.0,207.0,True
+L9055,"Gill, Kamdar and Shenoy Pvt Ltd",Logistics,50-200,2025-11-26,7,New,,120000.0,308.0,True
+L0033,Swaminathan-Cherian,Manufacturing,50-200,2025-12-07,7,New,"Met at conference, warm intro.",0.0,297.0,True
+L0279,Bera Group,Retail,2000-5000,2026-08-25,7,New,"Requested pricing sheet, no response since.",250000.0,36.0,False
+L0145,"Bora, Saini and Kanda",Logistics,200-500,2026-03-10,7,Qualified,"Interested in demo, follow up next week.",500000.0,204.0,True
+L0309,Bera-Deol,Logistics,500-2000,,7,Contacted,Do not contact until Q3.,500000.0,,False
+L0712,"Vora, Krishnamurthy and Lala",Logistics,50-200,2026-06-27,6,New,Said budget is tight this quarter.,50000.0,95.0,False
+L0669,Borah Group,SaaS,50-200,2025-10-20,6,Qualified,Do not contact until Q3.,500000.0,345.0,True
+L0429,Banerjee PLC,Retail,10-50,2026-03-16,6,Contacted,"Requested pricing sheet, no response since.",120000.0,198.0,True
+L0722,Iyengar-Salvi,Healthcare,500-2000,2026-04-12,5,Qualified,"Interested in demo, follow up next week.",120000.0,171.0,False
+L0106,Khalsa Group,Manufacturing,2000-5000,2025-09-04,5,New,"Met at conference, warm intro.",500000.0,391.0,True
+L0364,Purohit LLC,Manufacturing,10-50,2026-08-10,5,New,"Interested in demo, follow up next week.",50000.0,51.0,False
+L0508,"Comar, Upadhyay and Raghavan",Manufacturing,10-50,2026-07-07,5,Contacted,"Interested in demo, follow up next week.",500000.0,85.0,False
+L0404,"Acharya, Prashad and Vasa",Manufacturing,2000-5000,2026-06-11,5,New,,50000.0,111.0,False
+L0566,Kulkarni PLC,Retail,50-200,2026-07-26,5,New,Currently evaluating competitors.,50000.0,66.0,False
+L0558,Chokshi-Chaudhuri,Healthcare,200-500,2026-06-09,5,New,"Met at conference, warm intro.",250000.0,113.0,False
+L0398,Sehgal-Parsa,Manufacturing,10-50,2026-06-03,5,Qualified,"Requested pricing sheet, no response since.",250000.0,119.0,False
+L0036,Kurian-Khosla,Logistics,2000-5000,,5,New,"Met at conference, warm intro.",250000.0,,False
+L0794,"Panchal, Rau and Tata",SaaS,2000-5000,2026-03-17,5,Qualified,"Interested in demo, follow up next week.",500000.0,197.0,True
+L0119,Chaudhari-Banik,SaaS,500-2000,2026-04-20,5,Qualified,"Requested pricing sheet, no response since.",500000.0,163.0,False
+L0125,Badami Group,Manufacturing,10-50,2026-04-16,5,New,"Requested pricing sheet, no response since.",250000.0,167.0,False
+L0700,Karpe-Dhaliwal,Healthcare,500-2000,2026-05-27,5,Contacted,Currently evaluating competitors.,50000.0,126.0,False
+L9060,"Khalsa, Bir and Basu Pvt Ltd",Logistics,200-500,2026-08-13,4,New,Do not contact until Q3.,500000.0,48.0,False
+L0011,Sidhu-Khalsa,Retail,50-200,2026-04-21,4,Qualified,Currently evaluating competitors.,0.0,162.0,False
+L0456,Varghese-Mane,Retail,50-200,,4,Contacted,"Met at conference, warm intro.",120000.0,,False
+L0450,Balakrishnan-Suresh,Logistics,500-2000,2026-03-11,4,Qualified,"Interested in demo, follow up next week.",120000.0,203.0,True
+L0419,Varghese PLC,SaaS,500-2000,,4,Contacted,Currently evaluating competitors.,50000.0,,False
+L0797,"Shukla, Arora and Vora",Healthcare,10-50,,4,New,"Requested pricing sheet, no response since.",50000.0,,False
+L0602,Dutta Group,Healthcare,2000-5000,2026-01-15,4,New,"Requested pricing sheet, no response since.",120000.0,258.0,True
+L0217,Agate-Nazareth,Logistics,500-2000,,4,Contacted,"Met at conference, warm intro.",250000.0,,False
+L0120,"Sinha, Mahal and Suresh",SaaS,500-2000,2026-07-27,4,Contacted,Do not contact until Q3.,50000.0,65.0,False
+L0704,Savant-Sundaram,Manufacturing,500-2000,2026-06-30,3,New,"Requested pricing sheet, no response since.",120000.0,92.0,False
+L0745,Butala-Koshy,Healthcare,500-2000,2026-08-27,3,New,Do not contact until Q3.,500000.0,34.0,False
+L0496,"Suresh, Konda and Lala",Manufacturing,2000-5000,2025-10-14,3,Contacted,"Requested pricing sheet, no response since.",120000.0,351.0,True
+L0459,Gandhi and Sons,Retail,200-500,,3,New,Do not contact until Q3.,120000.0,,False
+L0112,"Chandran, Ravi and Sheth",Healthcare,10-50,2025-11-11,3,Qualified,"Met at conference, warm intro.",120000.0,323.0,True
+L0408,Joshi LLC,Manufacturing,10-50,2026-08-27,2,Contacted,"Interested in demo, follow up next week.",120000.0,34.0,False
+L0146,Sahni-Dugar,SaaS,2000-5000,2026-09-04,2,Qualified,Do not contact until Q3.,120000.0,26.0,False
+L0789,Menon LLC,Manufacturing,500-2000,2026-01-18,2,Contacted,,50000.0,255.0,True
+L0172,"Naidu, Garde and Minhas",Retail,500-2000,2026-02-06,2,Contacted,Currently evaluating competitors.,500000.0,236.0,True
+L0685,Upadhyay LLC,Healthcare,50-200,2026-04-05,2,Qualified,Said budget is tight this quarter.,250000.0,178.0,False
+L0088,"Dugar, Virk and Nayak",Healthcare,500-2000,2026-08-13,2,Qualified,"Met at conference, warm intro.",120000.0,48.0,False
+L0631,Ganesan-Keer,Retail,2000-5000,2026-06-26,2,Contacted,,120000.0,96.0,False
+L0647,Dhar Group,Healthcare,50-200,2025-11-16,2,Qualified,"Met at conference, warm intro.",120000.0,318.0,True
+L0755,Jani-Mall,Retail,2000-5000,2025-11-20,1,Contacted,Do not contact until Q3.,120000.0,314.0,True
+L0738,"Virk, Korpal and Chakraborty",Manufacturing,10-50,2025-11-15,1,Contacted,Currently evaluating competitors.,0.0,319.0,True
+L0334,"Rajan, Kulkarni and Nagy",Healthcare,10-50,2026-08-10,1,Contacted,"Requested pricing sheet, no response since.",120000.0,51.0,False
+L9019,"Munshi, Dubey and Yadav Pvt Ltd",Logistics,500-2000,2026-03-25,1,Qualified,,250000.0,189.0,True
+L0500,Atwal-Bath,Logistics,10-50,2025-11-04,1,Contacted,Do not contact until Q3.,500000.0,330.0,True
+L0589,Ganguly-Tripathi,SaaS,2000-5000,2025-09-17,1,Qualified,,250000.0,378.0,True
+L0149,Doctor PLC,Retail,50-200,2026-03-30,1,New,"Interested in demo, follow up next week.",250000.0,184.0,True
+L0771,Chahal LLC,Manufacturing,200-500,2025-09-15,1,Contacted,,120000.0,380.0,True
+L0369,Kulkarni LLC,Healthcare,10-50,2025-10-08,1,Contacted,Do not contact until Q3.,0.0,357.0,True
+L0661,Lal-Kalita,Healthcare,500-2000,,0,New,Currently evaluating competitors.,50000.0,,False
+L0004,"Bail, Bedi and Balasubramanian",Logistics,200-500,2025-09-06,0,New,"Met at conference, warm intro.",250000.0,389.0,True
+L0710,"Singh, Dasgupta and Parikh",Healthcare,2000-5000,2025-11-22,0,Contacted,"Requested pricing sheet, no response since.",500000.0,312.0,True
+L0396,"Yogi, Bala and Kala",SaaS,50-200,,0,New,"Met at conference, warm intro.",50000.0,,False
+L0365,"Ramanathan, Peri and Murty",Healthcare,500-2000,2026-02-22,0,Contacted,,120000.0,220.0,True
+L0368,Agrawal-Chauhan,Retail,10-50,2026-06-12,0,Qualified,Said budget is tight this quarter.,0.0,110.0,False
+L0278,"Som, Sagar and Ganesan",Healthcare,200-500,2025-09-13,0,Contacted,"Requested pricing sheet, no response since.",0.0,382.0,True

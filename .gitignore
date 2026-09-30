@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Secrets
+.env
+
+# Local vector store (regenerable, ~MB)
+data/chroma/
+
+# Local logs (regenerable)
+logs/traces.jsonl
+eval/eval_traces.jsonl
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# Temp / scratch
+file_list.txt
+DEMO_SCRIPT.md
+*.bak

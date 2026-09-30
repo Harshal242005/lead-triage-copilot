@@ -1,0 +1,26 @@
+deal_id,industry,company_size,engagement_score_at_win,deal_value,notes
+W000,SaaS,2000-5000,72,100000,Champion was VP of Ops. Fast decision cycle.
+W001,Healthcare,2000-5000,95,250000,Champion was VP of Ops. Fast decision cycle.
+W002,SaaS,500-2000,80,1000000,Referred by existing customer.
+W003,Retail,2000-5000,87,250000,Referred by existing customer.
+W004,SaaS,10-50,88,250000,Referred by existing customer.
+W005,Retail,10-50,78,250000,"Evaluated 3 vendors, chose us on integrations."
+W006,SaaS,200-500,87,250000,"Evaluated 3 vendors, chose us on integrations."
+W007,SaaS,2000-5000,71,250000,Champion was VP of Ops. Fast decision cycle.
+W008,Logistics,500-2000,94,250000,Champion was VP of Ops. Fast decision cycle.
+W009,Healthcare,10-50,70,100000,Came inbound after a webinar. High intent.
+W010,Retail,2000-5000,98,500000,"Evaluated 3 vendors, chose us on integrations."
+W011,Healthcare,50-200,76,250000,Referred by existing customer.
+W012,Logistics,500-2000,83,250000,Came inbound after a webinar. High intent.
+W013,Logistics,10-50,89,250000,"Evaluated 3 vendors, chose us on integrations."
+W014,Logistics,10-50,90,500000,Referred by existing customer.
+W015,Healthcare,10-50,87,250000,Came inbound after a webinar. High intent.
+W016,Retail,2000-5000,73,500000,Came inbound after a webinar. High intent.
+W017,Healthcare,50-200,78,100000,Came inbound after a webinar. High intent.
+W018,Retail,50-200,91,1000000,"Evaluated 3 vendors, chose us on integrations."
+W019,SaaS,50-200,91,100000,Champion was VP of Ops. Fast decision cycle.
+W020,Manufacturing,200-500,76,1000000,Referred by existing customer.
+W021,Manufacturing,2000-5000,95,1000000,Champion was VP of Ops. Fast decision cycle.
+W022,Retail,10-50,99,250000,Came inbound after a webinar. High intent.
+W023,Retail,500-2000,86,100000,Champion was VP of Ops. Fast decision cycle.
+W024,SaaS,500-2000,88,500000,"Evaluated 3 vendors, chose us on integrations."

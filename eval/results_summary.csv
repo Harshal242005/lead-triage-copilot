@@ -1,0 +1,11 @@
+,value
+precision@10,1.0
+precision@20,1.0
+precision@30,1.0
+precision@50,1.0
+precision@20_random_baseline,0.55
+min_score,5.0
+max_score,88.0
+mean_score,39.0
+std_score,22.0
+n_leads,120.0
