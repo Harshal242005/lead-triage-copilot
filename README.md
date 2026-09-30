@@ -6,6 +6,24 @@
 by likelihood to convert with cited reasoning, drafts first-touch outreach, and
 requires a human to approve every action before anything is sent.
 
+
+---
+
+## TL;DR
+
+| | |
+|---|---|
+| **Problem** | PS-04 — AI Decision Engine for Business Data |
+| **Solution** | RAG + LLM lead scoring with traceable reasoning and a human approval gate |
+| **Stack** | Gemini 3.5 Flash Lite (primary) + Groq GPT-OSS-120B (fallback), sentence-transformers + Chroma (local), Streamlit |
+| **Cost** | $0 — every LLM call is free-tier; embeddings run locally |
+| **Eval (n=120)** | System precision@20 = **1.00** · Human = 0.95 · Random = 0.55 |
+| **Time to run** | ~10 minutes with free API keys — see [QUICKSTART.md](QUICKSTART.md) |
+| **Human approval** | Required for every action. The system never sends anything itself. |
+| **Traceability** | Every score logs its cited fields, retrieved wins, and the model used |
+
+---
+
 ---
 
 ## What it does
